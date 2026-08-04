@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2046629831316848991",
+    "created_at": "2026-04-21T16:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046629831316848991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RamrarVA/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/RamrarVA/status/2046287782386299085",
+          "start": 8,
+          "url": "https://t.co/2bDWyAnlHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046629831316848991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046287782386299085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✨❄️妹爽吃😋 https://t.co/2bDWyAnlHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22822,
+        "height": 1920,
+        "media_key": "13_2045954064844767232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045954064844767232/img/qtIC6Cq3XCJvcjZo.jpg",
+        "public_metrics": {
+          "view_count": 1853
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045954064844767232/vid/avc1/320x568/8qd-OPvA0UoMj3j4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045954064844767232/vid/avc1/480x852/yijC5eFETAwscdne.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045954064844767232/vid/avc1/720x1280/yiGRLjn8XLRRHnLR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045954064844767232/pl/LXyTUIq0uhWiPdxF.m3u8?tag=14&v=97e"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2046629831316848991",
+        "created_at": "2026-04-21T16:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046629831316848991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RamrarVA/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/RamrarVA/status/2046287782386299085",
+              "start": 8,
+              "url": "https://t.co/2bDWyAnlHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046629831316848991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046287782386299085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✨❄️妹爽吃😋 https://t.co/2bDWyAnlHL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045954064844767232"
+          ]
+        },
+        "author_id": "1770753019451260928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2046287782386299085",
+        "created_at": "2026-04-20T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046287782386299085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "dub"
+            },
+            {
+              "end": 90,
+              "start": 77,
+              "tag": "residentevil"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "comic"
+            },
+            {
+              "end": 119,
+              "start": 106,
+              "tag": "ethanwinters"
+            },
+            {
+              "end": 147,
+              "start": 135,
+              "tag": "leonkennedy"
+            },
+            {
+              "end": 169,
+              "start": 165,
+              "tag": "re9"
+            },
+            {
+              "end": 174,
+              "start": 170,
+              "tag": "re7"
+            },
+            {
+              "end": 187,
+              "start": 175,
+              "tag": "voiceacting"
+            },
+            {
+              "end": 198,
+              "start": 188,
+              "tag": "voiceover"
+            },
+            {
+              "end": 203,
+              "start": 199,
+              "tag": "fun"
+            },
+            {
+              "end": 217,
+              "start": 204,
+              "tag": "lighthearted"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "935247852841844736",
+              "start": 17,
+              "username": "Winnie62123994"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZg4M8LyZH",
+              "end": 241,
+              "expanded_url": "https://x.com/RamrarVA/status/2046287782386299085/video/1",
+              "media_key": "13_2045954064844767232",
+              "start": 218,
+              "url": "https://t.co/XZg4M8LyZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046287782386299085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 3336,
+          "like_count": 400,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "Big thank you to @Winnie62123994 for letting us #dub over this extremely fun #residentevil #comic. I hope #ethanwinters managed to get #leonkennedy home alright...\n\n#re9 #re7 #voiceacting #voiceover #fun #lighthearted https://t.co/XZg4M8LyZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 35,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T10:03:36.000Z",
+        "description": "Voice actor and editor, owner of RamrarComics & RamBridged on youtube. Check out my work on CCC, Tik tok, instagram and various channels across Youtube!!!",
+        "id": "1770753019451260928",
+        "name": "Ramrar",
+        "pinned_tweet_id": "1816156454883320003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020989438940053504/vQvrLUd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 225,
+          "like_count": 746,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1247
+        },
+        "username": "RamrarVA",
+        "verified": false
+      }
+    ]
+  }
+}

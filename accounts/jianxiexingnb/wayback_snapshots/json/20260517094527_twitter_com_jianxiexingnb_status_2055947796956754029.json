@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055947796956754029",
+    "created_at": "2026-05-17T09:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055947796956754029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047273781098639360",
+          "start": 3,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055947796956754029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055917462286381187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamamotokoroshi: 自介\n退役Oder/不🩸🔪/简繁中🇨🇳日本語🇯🇵Deutsch🇩🇪/English🇬🇧\n致幻重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/\ndrugs更多在🦋（同名\n请不要问我物质渠道🥺也不出售任何物质\n发点嗑药日常/二三涉…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055917430103580672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgWAozboAAEYNC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055947796956754029",
+        "created_at": "2026-05-17T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055947796956754029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047273781098639360",
+              "start": 3,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055947796956754029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055917462286381187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamamotokoroshi: 自介\n退役Oder/不🩸🔪/简繁中🇨🇳日本語🇯🇵Deutsch🇩🇪/English🇬🇧\n致幻重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/\ndrugs更多在🦋（同名\n请不要问我物质渠道🥺也不出售任何物质\n发点嗑药日常/二三涉…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055917430103580672"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2055917462286381187",
+        "created_at": "2026-05-17T07:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055917462286381187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZlY4fraUF",
+              "end": 184,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2055917462286381187/photo/1",
+              "media_key": "3_2055917430103580672",
+              "start": 161,
+              "url": "https://t.co/GZlY4fraUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055917462286381187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1316,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n退役Oder/不🩸🔪/简繁中🇨🇳日本語🇯🇵Deutsch🇩🇪/English🇬🇧\n致幻重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/\ndrugs更多在🦋（同名\n请不要问我物质渠道🥺也不出售任何物质\n发点嗑药日常/二三涉\n有问题可以直接私信或匿名\n关于trip报告放在主页链接\n只要活着就会一直更新... https://t.co/GZlY4fraUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 150,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/jNmBSxJaIe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cifHwzhznAJ7…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cifHwzhznAJ7?f=301",
+                "start": 106,
+                "url": "https://t.co/jNmBSxJaIe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 457,
+          "like_count": 1300,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

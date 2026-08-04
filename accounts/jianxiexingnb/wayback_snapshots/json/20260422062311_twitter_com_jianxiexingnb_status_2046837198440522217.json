@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046834280916230473",
+    "created_at": "2026-04-22T06:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046837198440522217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960348162616672256",
+          "start": 0,
+          "username": "rainw20100301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046837198440522217",
+    "in_reply_to_user_id": "1960348162616672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046834280916230473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainw20100301 已经有抖人开始建议别人吃晚安和美金刚了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046834280916230473",
+        "created_at": "2026-04-22T06:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046837198440522217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960348162616672256",
+              "start": 0,
+              "username": "rainw20100301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046837198440522217",
+        "in_reply_to_user_id": "1960348162616672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046834280916230473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainw20100301 已经有抖人开始建议别人吃晚安和美金刚了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960348162616672256",
+        "conversation_id": "2046834280916230473",
+        "created_at": "2026-04-22T06:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046834280916230473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianxiexingnb/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/jianxiexingnb/status/2046636262803796423",
+              "start": 21,
+              "url": "https://t.co/DWDhiaCyZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046834280916230473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046636262803796423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后就开始吃晚安和美金刚…很神奇的一群人 https://t.co/DWDhiaCyZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 38,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon\n10年丨♀️丨精神状态不稳定但温良丨od丨自残丨碎碎念 | 喜欢聊天！求同类互fo🫶没回fo是没看到，请一定要告诉我！",
+        "id": "1960348162616672256",
+        "location": "天国",
+        "name": "uon",
+        "pinned_tweet_id": "2044290333367017765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 168,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 232
+        },
+        "username": "rainw20100301",
+        "verified": false
+      }
+    ]
+  }
+}

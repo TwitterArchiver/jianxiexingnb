@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046935741268393984"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046935744275763471",
+    "created_at": "2026-04-22T12:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046935744275763471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYICKgexku",
+          "end": 29,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2046935744275763471/photo/1",
+          "media_key": "3_2046935741268393984",
+          "start": 6,
+          "url": "https://t.co/YYICKgexku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046935744275763471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？认真的吗 https://t.co/YYICKgexku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2046935741268393984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgtNihagAAkRaK.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046935741268393984"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046935744275763471",
+        "created_at": "2026-04-22T12:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046935744275763471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYICKgexku",
+              "end": 29,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2046935744275763471/photo/1",
+              "media_key": "3_2046935741268393984",
+              "start": 6,
+              "url": "https://t.co/YYICKgexku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046935744275763471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？认真的吗 https://t.co/YYICKgexku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 54,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 140
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

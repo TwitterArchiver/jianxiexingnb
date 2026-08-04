@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2079543243667374264",
+    "created_at": "2026-07-22T08:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079849161789477220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060247807693643776",
+          "start": 0,
+          "username": "Illnessjhlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079849161789477220",
+    "in_reply_to_user_id": "2060247807693643776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079638652620251422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Illnessjhlw 他没说什么但是还是好尴尬😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2079543243667374264",
+        "created_at": "2026-07-22T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079849161789477220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060247807693643776",
+              "start": 0,
+              "username": "Illnessjhlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079849161789477220",
+        "in_reply_to_user_id": "2060247807693643776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079638652620251422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Illnessjhlw 他没说什么但是还是好尴尬😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060247807693643776",
+        "conversation_id": "2079543243667374264",
+        "created_at": "2026-07-21T18:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079638652620251422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079638652620251422",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079543243667374264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 可以去别的星球生活了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 246,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T06:32:38.000Z",
+        "description": "这里是小零 11年|od|自伤 LGBT友好 不支持墙内发、带人药物滥用 不涉政 喜欢同类看见会直接回欢迎互fo喵",
+        "id": "2060247807693643776",
+        "name": "Illness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075317710498697216/K4fJU59m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 134,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "Illnessjhlw",
+        "verified": false
+      }
+    ]
+  }
+}

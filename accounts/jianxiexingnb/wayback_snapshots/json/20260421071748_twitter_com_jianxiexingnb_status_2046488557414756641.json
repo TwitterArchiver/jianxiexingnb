@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046488522467737600",
+        "3_2046488521905766401"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046488557414756641",
+    "created_at": "2026-04-21T07:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046488557414756641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A20Jezq0sH",
+          "end": 27,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2046488557414756641/photo/1",
+          "media_key": "3_2046488522467737600",
+          "start": 4,
+          "url": "https://t.co/A20Jezq0sH"
+        },
+        {
+          "display_url": "pic.x.com/A20Jezq0sH",
+          "end": 27,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2046488557414756641/photo/1",
+          "media_key": "3_2046488521905766401",
+          "start": 4,
+          "url": "https://t.co/A20Jezq0sH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046488557414756641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩了😵 https://t.co/A20Jezq0sH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2046488522467737600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaWd-qagAA_RO5.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_2046488521905766401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaWd8kbgAEgNaH.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046488522467737600",
+            "3_2046488521905766401"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046488557414756641",
+        "created_at": "2026-04-21T07:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046488557414756641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A20Jezq0sH",
+              "end": 27,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2046488557414756641/photo/1",
+              "media_key": "3_2046488522467737600",
+              "start": 4,
+              "url": "https://t.co/A20Jezq0sH"
+            },
+            {
+              "display_url": "pic.x.com/A20Jezq0sH",
+              "end": 27,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2046488557414756641/photo/1",
+              "media_key": "3_2046488521905766401",
+              "start": 4,
+              "url": "https://t.co/A20Jezq0sH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046488557414756641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了😵 https://t.co/A20Jezq0sH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/无性别/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 89
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

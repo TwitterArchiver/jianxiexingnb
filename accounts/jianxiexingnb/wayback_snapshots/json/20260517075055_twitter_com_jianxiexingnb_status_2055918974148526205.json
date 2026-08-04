@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055700357305790565",
+    "created_at": "2026-05-17T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055918974148526205"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055918974148526205",
+    "in_reply_to_user_id": "2032985503621095424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055900783099740374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我为啥把倒数第二行这次写成这只鸡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2055900780692201472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgG3g6bYAAI5Ff.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055700357305790565",
+        "created_at": "2026-05-17T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055918974148526205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055918974148526205",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900783099740374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为啥把倒数第二行这次写成这只鸡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055900780692201472"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055700357305790565",
+        "created_at": "2026-05-17T06:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900783099740374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OonDgZxga",
+              "end": 23,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2055900783099740374/photo/1",
+              "media_key": "3_2055900780692201472",
+              "start": 0,
+              "url": "https://t.co/1OonDgZxga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900783099740374",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055700357305790565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/1OonDgZxga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 151,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

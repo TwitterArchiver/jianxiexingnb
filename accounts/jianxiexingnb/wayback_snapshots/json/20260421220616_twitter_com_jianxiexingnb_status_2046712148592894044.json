@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046712148592894044",
+    "created_at": "2026-04-21T22:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T23:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046712148592894044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1994978619102564356",
+          "start": 3,
+          "username": "oooneheart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046712148592894044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045846921349058617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oooneheart: 想和餐券妹互fo🥺宝宝们能不能转转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046712148592894044",
+        "created_at": "2026-04-21T22:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T23:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046712148592894044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1994978619102564356",
+              "start": 3,
+              "username": "oooneheart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046712148592894044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045846921349058617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oooneheart: 想和餐券妹互fo🥺宝宝们能不能转转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994978619102564356",
+        "conversation_id": "2045846921349058617",
+        "created_at": "2026-04-19T12:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045846921349058617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045846921349058617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想和餐券妹互fo🥺宝宝们能不能转转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 36,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 108
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T03:56:02.000Z",
+        "description": "(｡･ω･｡) 可以叫我枯井/ENTP/5.25/韩娱泰娱二次哈圈…/喜欢我的可以给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oooneheart",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oooneheart",
+                "start": 0,
+                "url": "https://t.co/obNqj1pdfY"
+              }
+            ]
+          }
+        },
+        "id": "1994978619102564356",
+        "location": "天堂",
+        "name": "她的梦是一口枯井",
+        "pinned_tweet_id": "2040362469508489580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040358851480854528/VTX9Kq7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 77,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/obNqj1pdfY",
+        "username": "oooneheart",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2068271970781995249",
+    "created_at": "2026-06-20T12:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068314202205528244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1051173694779863040",
+          "start": 0,
+          "username": "madina__mart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068314202205528244",
+    "in_reply_to_user_id": "1051173694779863040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068305688686977029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madina__mart 我服了吧🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2068271970781995249",
+        "created_at": "2026-06-20T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068314202205528244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1051173694779863040",
+              "start": 0,
+              "username": "madina__mart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068314202205528244",
+        "in_reply_to_user_id": "1051173694779863040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068305688686977029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madina__mart 我服了吧🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051173694779863040",
+        "conversation_id": "2068271970781995249",
+        "created_at": "2026-06-20T12:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068305688686977029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068305688686977029",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068271970781995249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 不赖还有无间道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 189,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-13T18:11:53.000Z",
+        "description": "一世被奸人所害，互fo寻回....pr提供中",
+        "id": "1051173694779863040",
+        "location": "美国",
+        "name": "小爱同学_二世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067271497765515264/x4DT4Mus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "madina__mart",
+        "verified": false
+      }
+    ]
+  }
+}

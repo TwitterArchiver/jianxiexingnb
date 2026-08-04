@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2061450864330703036",
+    "created_at": "2026-06-19T11:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067932990630658357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2033349756223909888",
+          "start": 0,
+          "username": "VERI2337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067932990630658357",
+    "in_reply_to_user_id": "2033349756223909888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061451538686673107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VERI2337 爱你喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061451538686673107].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061451538686673107",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061451538686673107"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2061450864330703036",
+        "created_at": "2026-06-19T11:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067932990630658357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2033349756223909888",
+              "start": 0,
+              "username": "VERI2337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067932990630658357",
+        "in_reply_to_user_id": "2033349756223909888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061451538686673107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VERI2337 爱你喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 179,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T01:09:05.000Z",
+        "description": "我對不起所有人",
+        "id": "2033349756223909888",
+        "location": "第三高原",
+        "name": "TPG72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052412296358674432/SxtrrZwo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 6357,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "VERI2337",
+        "verified": false
+      }
+    ]
+  }
+}

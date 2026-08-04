@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2042278695684198721",
+    "created_at": "2026-04-10T11:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042572175585218937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042572175585218937",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278695684198721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyanu_tut 生日快乐!(^O^)y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2042278695684198721",
+        "created_at": "2026-04-10T11:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042572175585218937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042572175585218937",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278695684198721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyanu_tut 生日快乐!(^O^)y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2042278695684198721",
+        "created_at": "2026-04-09T16:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042278695684198721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042278695684198721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16665,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 239,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日！让我们说生日祝福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "这个号当吐槽号用 什么东西都会发 语气不会太好\n\ntumblr：https://t.co/bEkrvhrKtq\nins：https://t.co/DJxdwSZNNa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/occasionalcrav…",
+                "end": 55,
+                "expanded_url": "https://www.tumblr.com/occasionalcraving?source=share",
+                "start": 32,
+                "url": "https://t.co/bEkrvhrKtq"
+              },
+              {
+                "display_url": "instagram.com/jianxiexing712…",
+                "end": 83,
+                "expanded_url": "https://www.instagram.com/jianxiexing712?igsh=Y2p0bHVmeGI1MHQ1",
+                "start": 60,
+                "url": "https://t.co/DJxdwSZNNa"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "name": "𝑬𝒓𝒐𝒔 𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒂𝒕𝒐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "完美无缺",
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2042297346260860972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 337,
+          "like_count": 425,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1288
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

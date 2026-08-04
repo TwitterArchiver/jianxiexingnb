@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2057874860144242900",
+    "created_at": "2026-05-22T17:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057874860144242900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1471510301233545216",
+          "start": 3,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057874860144242900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057741066275819884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twelvedaystodie: 給各位玩推的：\n不要因為想看上去很「酷」而跑去OD，割手，抽煙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2057874860144242900",
+        "created_at": "2026-05-22T17:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057874860144242900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1471510301233545216",
+              "start": 3,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057874860144242900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057741066275819884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twelvedaystodie: 給各位玩推的：\n不要因為想看上去很「酷」而跑去OD，割手，抽煙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2057741066275819884",
+        "created_at": "2026-05-22T08:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057741066275819884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057741066275819884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3005,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "給各位玩推的：\n不要因為想看上去很「酷」而跑去OD，割手，抽煙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 180,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8746,
+          "following_count": 220,
+          "like_count": 6979,
+          "listed_count": 14,
+          "media_count": 917,
+          "tweet_count": 11651
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

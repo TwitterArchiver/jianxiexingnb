@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2049598623537922107",
+    "created_at": "2026-04-29T21:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T22:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049598623537922107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1090682679840960514",
+          "start": 3,
+          "username": "Miantuan_P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049598623537922107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049339304934265204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miantuan_P: 亚洲创作者喜欢充满创伤的扭曲关系其实和我们的高压环境离不了关系，比如假设你一出生就活在控制狂母亲的虐待阴影下，你离不开她，又恨她又爱她，那孩子出于报复和天性自然会有明确的发泄目标，他们的mommy issues就是这么来的。现实里还充斥着优绩主义…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2049598623537922107",
+        "created_at": "2026-04-29T21:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049598623537922107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1090682679840960514",
+              "start": 3,
+              "username": "Miantuan_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049598623537922107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049339304934265204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miantuan_P: 亚洲创作者喜欢充满创伤的扭曲关系其实和我们的高压环境离不了关系，比如假设你一出生就活在控制狂母亲的虐待阴影下，你离不开她，又恨她又爱她，那孩子出于报复和天性自然会有明确的发泄目标，他们的mommy issues就是这么来的。现实里还充斥着优绩主义…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090682679840960514",
+        "conversation_id": "2049339304934265204",
+        "created_at": "2026-04-29T04:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049339304934265204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049339304934265204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 73531,
+          "like_count": 2114,
+          "quote_count": 63,
+          "reply_count": 13,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "亚洲创作者喜欢充满创伤的扭曲关系其实和我们的高压环境离不了关系，比如假设你一出生就活在控制狂母亲的虐待阴影下，你离不开她，又恨她又爱她，那孩子出于报复和天性自然会有明确的发泄目标，他们的mommy issues就是这么来的。现实里还充斥着优绩主义的竞争，也就创作虚拟内容能发泄内心的苦闷了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 84,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 201
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-30T18:46:29.000Z",
+        "description": "Taiwanese | 23 🔞 ｜坑杂｜DeltaForce&R6S&SilentHill｜ Eng/繁/简OK ｜Sinophobia DNI🚫\nDM is off.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/miantu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/miantuan-p.bsky.social",
+                "start": 0,
+                "url": "https://t.co/tpgcZchLn9"
+              }
+            ]
+          }
+        },
+        "id": "1090682679840960514",
+        "name": "Miantuan-P",
+        "pinned_tweet_id": "1938972845973086376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044118177475710976/hFSJfVBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485,
+          "following_count": 2052,
+          "like_count": 62783,
+          "listed_count": 14,
+          "media_count": 2509,
+          "tweet_count": 10386
+        },
+        "url": "https://t.co/tpgcZchLn9",
+        "username": "Miantuan_P",
+        "verified": false
+      }
+    ]
+  }
+}

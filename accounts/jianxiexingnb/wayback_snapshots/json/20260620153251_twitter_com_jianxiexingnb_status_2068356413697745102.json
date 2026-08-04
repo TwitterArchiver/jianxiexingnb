@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2068271970781995249",
+    "created_at": "2026-06-20T15:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068356413697745102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1796177968777080835",
+          "start": 0,
+          "username": "QiLin36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068356413697745102",
+    "in_reply_to_user_id": "1796177968777080835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068342809426599973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiLin36 我靠不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2068271970781995249",
+        "created_at": "2026-06-20T15:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068356413697745102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1796177968777080835",
+              "start": 0,
+              "username": "QiLin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068356413697745102",
+        "in_reply_to_user_id": "1796177968777080835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068342809426599973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiLin36 我靠不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796177968777080835",
+        "conversation_id": "2068271970781995249",
+        "created_at": "2026-06-20T14:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068342809426599973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068342809426599973",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068271970781995249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 诈你呢🌚基本上是开始怀疑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 201,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T13:53:03.000Z",
+        "description": "我是小路｜09｜od 自残偶尔发｜sub m brat｜纯绿门槛88无上限 互关小女孩不用门槛💜｜急事联系我抖音：qiquxiaolu_36｜小号@qiquxiaolu70",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "qiquxiaolu70"
+              }
+            ]
+          }
+        },
+        "id": "1796177968777080835",
+        "location": "ハムハム共和国",
+        "name": "崎岖小路。",
+        "pinned_tweet_id": "2044805268102631870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993815029452558337/vDYcS3hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 447,
+          "like_count": 30897,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 4502
+        },
+        "url": "",
+        "username": "QiLin36",
+        "verified": false
+      }
+    ]
+  }
+}

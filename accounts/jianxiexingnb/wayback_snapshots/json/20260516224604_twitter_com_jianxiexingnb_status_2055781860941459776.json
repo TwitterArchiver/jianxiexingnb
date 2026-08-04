@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055781855551799297"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055774739814285416",
+    "created_at": "2026-05-16T22:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T23:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055781860941459776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040840939875483648",
+          "start": 0,
+          "username": "Hhhhhhhuokj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jIBYSxBZDF",
+          "end": 50,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2055781860941459776/photo/1",
+          "media_key": "3_2055781855551799297",
+          "start": 27,
+          "url": "https://t.co/jIBYSxBZDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055781860941459776",
+    "in_reply_to_user_id": "2040840939875483648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055774739814285416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hhhhhhhuokj 我有图文教程 希望能帮到你 https://t.co/jIBYSxBZDF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055781855551799297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIeatKPbwAEgA4H.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055781855551799297"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055774739814285416",
+        "created_at": "2026-05-16T22:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055781860941459776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040840939875483648",
+              "start": 0,
+              "username": "Hhhhhhhuokj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIBYSxBZDF",
+              "end": 50,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2055781860941459776/photo/1",
+              "media_key": "3_2055781855551799297",
+              "start": 27,
+              "url": "https://t.co/jIBYSxBZDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055781860941459776",
+        "in_reply_to_user_id": "2040840939875483648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055774739814285416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hhhhhhhuokj 我有图文教程 希望能帮到你 https://t.co/jIBYSxBZDF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040840939875483648",
+        "conversation_id": "2055774739814285416",
+        "created_at": "2026-05-16T22:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055774739814285416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055774739814285416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别特别需要有人给我鼻吸的详细教程（有没有天使愿意教我？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 150,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T17:16:31.000Z",
+        "description": "永远爱女友永远活着",
+        "id": "2040840939875483648",
+        "name": "Hhhhhhhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041552603310702592/qEQUhQ-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 67,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "username": "Hhhhhhhuokj",
+        "verified": false
+      }
+    ]
+  }
+}

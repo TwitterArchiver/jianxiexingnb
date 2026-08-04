@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2078686294537117697"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2078686317928681752",
+    "created_at": "2026-07-19T03:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078686317928681752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6HnHHISsY3",
+          "end": 23,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2078686317928681752/photo/1",
+          "media_key": "16_2078686294537117697",
+          "start": 0,
+          "url": "https://t.co/6HnHHISsY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078686317928681752",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6HnHHISsY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2078686294537117697",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNj6K-lboAEqj70.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNj6K-lboAEqj70.mp4"
+          }
+        ],
+        "width": 422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078686294537117697"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2078686317928681752",
+        "created_at": "2026-07-19T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078686317928681752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HnHHISsY3",
+              "end": 23,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2078686317928681752/photo/1",
+              "media_key": "16_2078686294537117697",
+              "start": 0,
+              "url": "https://t.co/6HnHHISsY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078686317928681752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6HnHHISsY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 239,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

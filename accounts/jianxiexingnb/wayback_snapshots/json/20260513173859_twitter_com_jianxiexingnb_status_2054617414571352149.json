@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049166942838333440",
+        "3_2049166942897082368",
+        "3_2049166942838398976",
+        "3_2049166942884532224"
+      ],
+      "media_source_tweet_id": [
+        "2049167654330810563",
+        "2049167654330810563",
+        "2049167654330810563",
+        "2049167654330810563"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054617414571352149",
+    "created_at": "2026-05-13T17:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054617414571352149"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "互fo"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "地雷女"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047687133708599296",
+          "start": 3,
+          "username": "themaniachan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdJv3foSv8",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+          "media_key": "3_2049166942838333440",
+          "start": 112,
+          "url": "https://t.co/mdJv3foSv8"
+        },
+        {
+          "display_url": "pic.x.com/mdJv3foSv8",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+          "media_key": "3_2049166942897082368",
+          "start": 112,
+          "url": "https://t.co/mdJv3foSv8"
+        },
+        {
+          "display_url": "pic.x.com/mdJv3foSv8",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+          "media_key": "3_2049166942838398976",
+          "start": 112,
+          "url": "https://t.co/mdJv3foSv8"
+        },
+        {
+          "display_url": "pic.x.com/mdJv3foSv8",
+          "end": 135,
+          "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+          "media_key": "3_2049166942884532224",
+          "start": 112,
+          "url": "https://t.co/mdJv3foSv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054617414571352149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049167654330810563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themaniachan: 大家好我是狂酱二世——！这是狂酱的新置顶！\n狂酱正在努力找回前世互fo推友...具体的不能说太多🤭总之麻烦互关转转扩扩赐给狂酱一些流量...！\n忘记回fo的请踢踢我🥹\n#互fo #地雷女 https://t.co/mdJv3foSv8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049166942838333440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekFaIAAJarl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2049166942897082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekTakAAD-8Q.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3073,
+        "media_key": "3_2049166942838398976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekFbIAAdcFb.jpg",
+        "width": 3073
+      },
+      {
+        "height": 1273,
+        "media_key": "3_2049166942884532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaekQbEAAgp7d.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049166942838333440",
+            "3_2049166942897082368",
+            "3_2049166942838398976",
+            "3_2049166942884532224"
+          ],
+          "media_source_tweet_id": [
+            "2049167654330810563",
+            "2049167654330810563",
+            "2049167654330810563",
+            "2049167654330810563"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054617414571352149",
+        "created_at": "2026-05-13T17:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054617414571352149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "互fo"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "地雷女"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047687133708599296",
+              "start": 3,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838333440",
+              "start": 112,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942897082368",
+              "start": 112,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838398976",
+              "start": 112,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 135,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942884532224",
+              "start": 112,
+              "url": "https://t.co/mdJv3foSv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054617414571352149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049167654330810563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themaniachan: 大家好我是狂酱二世——！这是狂酱的新置顶！\n狂酱正在努力找回前世互fo推友...具体的不能说太多🤭总之麻烦互关转转扩扩赐给狂酱一些流量...！\n忘记回fo的请踢踢我🥹\n#互fo #地雷女 https://t.co/mdJv3foSv8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049166942838333440",
+            "3_2049166942897082368",
+            "3_2049166942838398976",
+            "3_2049166942884532224"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049167654330810563",
+        "created_at": "2026-04-28T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049167654330810563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "互fo"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "地雷女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838333440",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942897082368",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942838398976",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            },
+            {
+              "display_url": "pic.x.com/mdJv3foSv8",
+              "end": 117,
+              "expanded_url": "https://x.com/themaniachan/status/2049167654330810563/photo/1",
+              "media_key": "3_2049166942884532224",
+              "start": 94,
+              "url": "https://t.co/mdJv3foSv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049167654330810563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是狂酱二世——！这是狂酱的新置顶！\n狂酱正在努力找回前世互fo推友...具体的不能说太多🤭总之麻烦互关转转扩扩赐给狂酱一些流量...！\n忘记回fo的请踢踢我🥹\n#互fo #地雷女 https://t.co/mdJv3foSv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 131,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n🚧账号施工中🚧\n语言系统：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名雨宫狂爱🥰\n人设是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047689250272088064/bjiXQZrs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 94,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 189
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

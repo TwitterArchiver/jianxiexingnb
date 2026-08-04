@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2049402325815505047",
+    "created_at": "2026-04-29T09:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049418472724349395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587713006334418945",
+          "start": 0,
+          "username": "Crysitily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049418472724349395",
+    "in_reply_to_user_id": "1587713006334418945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049402325815505047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crysitily 白兔🐰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2049402325815505047",
+        "created_at": "2026-04-29T09:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049418472724349395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587713006334418945",
+              "start": 0,
+              "username": "Crysitily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049418472724349395",
+        "in_reply_to_user_id": "1587713006334418945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049402325815505047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crysitily 白兔🐰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587713006334418945",
+        "conversation_id": "2049402325815505047",
+        "created_at": "2026-04-29T08:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049402325815505047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049402325815505047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天磕ym还是白兔🐰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 83,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 193
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T07:47:45.000Z",
+        "description": "社恐\\欢迎互fo",
+        "id": "1587713006334418945",
+        "location": "地獄",
+        "name": "敐綏✨",
+        "pinned_tweet_id": "2040854269033877865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046250758103015424/c04enNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 73,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 232
+        },
+        "username": "Crysitily",
+        "verified": false
+      }
+    ]
+  }
+}

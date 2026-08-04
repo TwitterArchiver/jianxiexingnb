@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2063717223970247062",
+    "created_at": "2026-06-08T06:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063872849446932489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829548387936681984",
+          "start": 0,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063872849446932489",
+    "in_reply_to_user_id": "1829548387936681984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063717223970247062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Othercypl 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2063717219826311168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPL4JyaoAAsMv4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2063717223970247062",
+        "created_at": "2026-06-08T06:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063872849446932489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829548387936681984",
+              "start": 0,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063872849446932489",
+        "in_reply_to_user_id": "1829548387936681984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063717223970247062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Othercypl 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063717219826311168"
+          ]
+        },
+        "author_id": "1829548387936681984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2063717223970247062",
+        "created_at": "2026-06-07T20:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T21:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063717223970247062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ngiinOfksz"
+            },
+            {
+              "display_url": "pic.x.com/tg1pbbIQbq",
+              "end": 64,
+              "expanded_url": "https://x.com/Othercypl/status/2063717223970247062/photo/1",
+              "media_key": "3_2063717219826311168",
+              "start": 41,
+              "url": "https://t.co/tg1pbbIQbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063717223970247062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ngiinOfksz https://t.co/tg1pbbIQbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 179,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17河北苦命高中生/重抑中焦/不喝酒 偶尔od/喜欢宅看动漫/喜欢读文学哲学/自觉情绪稳定 ）/不怎么玩游戏/不键政/互fo\n可以称呼为我鸽子，鸽子神万岁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/otherb1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/otherb1",
+                "start": 0,
+                "url": "https://t.co/02ZX2AOpC1"
+              }
+            ]
+          }
+        },
+        "id": "1829548387936681984",
+        "name": "OtherB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101517180317696/v-47W4Nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 88,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/02ZX2AOpC1",
+        "username": "Othercypl",
+        "verified": false
+      }
+    ]
+  }
+}

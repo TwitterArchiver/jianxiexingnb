@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2035536552261267881",
+    "created_at": "2026-05-02T15:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050604108898586830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2025905993935405057",
+          "start": 0,
+          "username": "ganzeos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050604108898586830",
+    "in_reply_to_user_id": "2025905993935405057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035536552261267881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganzeos 一周一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2035536552261267881",
+        "created_at": "2026-05-02T15:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050604108898586830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2025905993935405057",
+              "start": 0,
+              "username": "ganzeos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050604108898586830",
+        "in_reply_to_user_id": "2025905993935405057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035536552261267881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganzeos 一周一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025905993935405057",
+        "conversation_id": "2035536552261267881",
+        "created_at": "2026-03-22T01:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035536552261267881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035536552261267881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人新手，刚开始od，请问od间隔要多久时间呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 84,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 236
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:10:11.000Z",
+        "description": "我叫甘泽\n直男（不顺直\n坐标浙江宁波\n生日12.24\n08年摩羯座isfj\n喜欢玩游戏/第五人格/王者荣耀/vrchat/我的世界（java）\n喜欢永雏塔菲，不追星、不怎么磕cp、🈚雷点（小粉红走开\n本人性格温良（除了游戏里面？！不过不会去骂朋友）\n可以找我玩游戏",
+        "id": "2025905993935405057",
+        "name": "甘泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033580678949044224/XHsXnzKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "ganzeos",
+        "verified": false
+      }
+    ]
+  }
+}

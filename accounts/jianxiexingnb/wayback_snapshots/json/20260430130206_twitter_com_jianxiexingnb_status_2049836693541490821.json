@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2049836692157411328"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2049836693541490821",
+    "created_at": "2026-04-30T13:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049836693541490821"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049836693541490821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正在思考今天愈美的量要不要从18t增到24t？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 60,
+        "end_datetime": "2026-04-30T14:02:06.000Z",
+        "id": "2049836692157411328",
+        "options": [
+          {
+            "label": "增量",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不增",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2049836692157411328"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2049836693541490821",
+        "created_at": "2026-04-30T13:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049836693541490821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049836693541490821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在思考今天愈美的量要不要从18t增到24t？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 85,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 218
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

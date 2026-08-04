@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078940943776944128"
+      ],
+      "media_source_tweet_id": [
+        "2078940953616781338"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079849827681423846",
+    "created_at": "2026-07-22T08:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079849827681423846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9KmUHwM8f",
+          "end": 70,
+          "expanded_url": "https://x.com/Yuki312813/status/2078940953616781338/photo/1",
+          "media_key": "3_2078940943776944128",
+          "start": 47,
+          "url": "https://t.co/r9KmUHwM8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079849827681423846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078940953616781338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 全体oder注意，普瑞巴林尿检板已出😋谁再滥用pr通通拷起来 https://t.co/r9KmUHwM8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2078940943776944128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnhxg7XEAA2e9o.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078940943776944128"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078940953616781338",
+        "created_at": "2026-07-19T20:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078940953616781338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9KmUHwM8f",
+              "end": 54,
+              "expanded_url": "https://x.com/Yuki312813/status/2078940953616781338/photo/1",
+              "media_key": "3_2078940943776944128",
+              "start": 31,
+              "url": "https://t.co/r9KmUHwM8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078940953616781338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5222,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全体oder注意，普瑞巴林尿检板已出😋谁再滥用pr通通拷起来 https://t.co/r9KmUHwM8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078940943776944128"
+          ],
+          "media_source_tweet_id": [
+            "2078940953616781338"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079849827681423846",
+        "created_at": "2026-07-22T08:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079849827681423846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9KmUHwM8f",
+              "end": 70,
+              "expanded_url": "https://x.com/Yuki312813/status/2078940953616781338/photo/1",
+              "media_key": "3_2078940943776944128",
+              "start": 47,
+              "url": "https://t.co/r9KmUHwM8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079849827681423846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078940953616781338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 全体oder注意，普瑞巴林尿检板已出😋谁再滥用pr通通拷起来 https://t.co/r9KmUHwM8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 246,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 258,
+          "like_count": 4512,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3480
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2054349635293204690",
+    "created_at": "2026-05-13T10:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054504871383199983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583489949348679681",
+          "start": 0,
+          "username": "mmminika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054504871383199983",
+    "in_reply_to_user_id": "1583489949348679681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054503032289927605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmminika 挺简单的，就是比线下贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2054349635293204690",
+        "created_at": "2026-05-13T10:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054504871383199983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583489949348679681",
+              "start": 0,
+              "username": "mmminika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054504871383199983",
+        "in_reply_to_user_id": "1583489949348679681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054503032289927605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmminika 挺简单的，就是比线下贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583489949348679681",
+        "conversation_id": "2054349635293204690",
+        "created_at": "2026-05-13T10:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054503032289927605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054503032289927605",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054349635293204690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 感谢分享，我都不知道京东还能买这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 117,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:06:53.000Z",
+        "description": "🇨🇳Chinesisch🇩🇪 Deutsch 🇬🇧ein bisschen Englisch ／你可以称呼我为Maximilian／画水彩/莫妮卡的狂热侍从/mtf 2024 .7/06年 ／白头菲尔德1 ／植物大战僵尸2／火影忍者／喜欢写诗、看书和听音乐！/欧陆哲学学习者，齐拉黑学派／追寻回溯性的法力（雾",
+        "id": "1583489949348679681",
+        "location": "法兰西第一共和国 旺代 ",
+        "name": "超级机枪豌豆🫧💊#iPhone 四",
+        "pinned_tweet_id": "1966925353714340221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009654200955809792/Oc1f9Flo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 516,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 444
+        },
+        "username": "mmminika",
+        "verified": false
+      }
+    ]
+  }
+}

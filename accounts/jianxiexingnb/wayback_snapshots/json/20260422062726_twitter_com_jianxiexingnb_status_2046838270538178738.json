@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046837476703216024",
+    "created_at": "2026-04-22T06:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046838270538178738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587713006334418945",
+          "start": 0,
+          "username": "Crysitily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046838270538178738",
+    "in_reply_to_user_id": "1587713006334418945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046838123737325968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crysitily 就没活过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046837476703216024",
+        "created_at": "2026-04-22T06:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046838270538178738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587713006334418945",
+              "start": 0,
+              "username": "Crysitily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046838270538178738",
+        "in_reply_to_user_id": "1587713006334418945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046838123737325968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crysitily 就没活过…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587713006334418945",
+        "conversation_id": "2046837476703216024",
+        "created_at": "2026-04-22T06:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046838123737325968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046838123737325968",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046837476703216024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 墙内神人死了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 123
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T07:47:45.000Z",
+        "description": "社恐\\欢迎互fo",
+        "id": "1587713006334418945",
+        "location": "地獄",
+        "name": "敐綏✨",
+        "pinned_tweet_id": "2040854269033877865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046250758103015424/c04enNsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 61,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 194
+        },
+        "username": "Crysitily",
+        "verified": false
+      }
+    ]
+  }
+}

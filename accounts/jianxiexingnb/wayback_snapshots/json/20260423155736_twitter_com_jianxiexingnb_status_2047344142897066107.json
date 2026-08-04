@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046636262803796423",
+    "created_at": "2026-04-23T15:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047344142897066107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941739973448957952",
+          "start": 0,
+          "username": "naijiujiang"
+        },
+        {
+          "end": 24,
+          "id": "1934615181524615168",
+          "start": 13,
+          "username": "sji1086477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047344142897066107",
+    "in_reply_to_user_id": "1941739973448957952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047341435528114614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naijiujiang @sji1086477 就该让他们死好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046636262803796423",
+        "created_at": "2026-04-23T15:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047344142897066107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941739973448957952",
+              "start": 0,
+              "username": "naijiujiang"
+            },
+            {
+              "end": 24,
+              "id": "1934615181524615168",
+              "start": 13,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344142897066107",
+        "in_reply_to_user_id": "1941739973448957952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047341435528114614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naijiujiang @sji1086477 就该让他们死好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941739973448957952",
+        "conversation_id": "2046636262803796423",
+        "created_at": "2026-04-23T15:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047341435528114614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 26,
+              "id": "2032985503621095424",
+              "start": 12,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047341435528114614",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046872919683272740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @jianxiexingnb 我劝了几个，还臭骂我一顿。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2047246833131675722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 60,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 145
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T06:04:37.000Z",
+        "description": "。。。",
+        "id": "1941739973448957952",
+        "location": "未知",
+        "name": "何?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009611537183543296/Gj_Ht3wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 89,
+          "like_count": 6156,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 440
+        },
+        "username": "naijiujiang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 46,
+          "like_count": 1425,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 620
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

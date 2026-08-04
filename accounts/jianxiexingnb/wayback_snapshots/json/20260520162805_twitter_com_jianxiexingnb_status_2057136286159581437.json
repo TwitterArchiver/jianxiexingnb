@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2057136286159581437",
+    "created_at": "2026-05-20T16:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057136286159581437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1560176804115234816",
+          "start": 3,
+          "username": "lingmunaixue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057136286159581437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057084755217351098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingmunaixue_: 这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2057136286159581437",
+        "created_at": "2026-05-20T16:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057136286159581437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1560176804115234816",
+              "start": 3,
+              "username": "lingmunaixue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057136286159581437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057084755217351098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingmunaixue_: 这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560176804115234816",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057084755217351098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057084755217351098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 916,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/加Q/V好友🚪52 赞赏码备注名字后私信我就🉑 只要我在可以随时找我 不聊黄 互关免🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 157,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T08:08:45.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=qpKpbr7a",
+                "start": 0,
+                "url": "https://t.co/Zbr9colgRt"
+              }
+            ]
+          }
+        },
+        "id": "1560176804115234816",
+        "name": "铃木奈雪",
+        "pinned_tweet_id": "2057084755217351098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047766676327051264/4XwWvnrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8091,
+          "following_count": 203,
+          "like_count": 8248,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/Zbr9colgRt",
+        "username": "lingmunaixue_",
+        "verified": true
+      }
+    ]
+  }
+}

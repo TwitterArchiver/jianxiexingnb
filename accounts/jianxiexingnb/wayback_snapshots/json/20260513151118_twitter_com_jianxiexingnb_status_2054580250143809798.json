@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2054551458868326542",
+    "created_at": "2026-05-13T15:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054580250143809798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124508515685453825",
+          "start": 0,
+          "username": "1nternet_Hajimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054580250143809798",
+    "in_reply_to_user_id": "1124508515685453825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054579995968963035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nternet_Hajimi 我现在感觉不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2054551458868326542",
+        "created_at": "2026-05-13T15:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054580250143809798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124508515685453825",
+              "start": 0,
+              "username": "1nternet_Hajimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054580250143809798",
+        "in_reply_to_user_id": "1124508515685453825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054579995968963035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nternet_Hajimi 我现在感觉不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124508515685453825",
+        "conversation_id": "2054551458868326542",
+        "created_at": "2026-05-13T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054579995968963035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054579995968963035",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054551458868326542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 和纯愈美比怎么样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 123,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T02:58:17.000Z",
+        "description": "哈基米我呀想要大家都开心 我要拯救互联网里的大家 overdose友好 疑似碎碎念推 可能会很吵可能又很久才说几句 神秘家里蹲 作息混乱 喜欢玩电子游戏（什么都玩） infp 什么东西都三分钟热度 大家有空可以找我聊天 看到的都会回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justkongou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justkongou1",
+                "start": 0,
+                "url": "https://t.co/NL5JOaqit1"
+              }
+            ]
+          }
+        },
+        "id": "1124508515685453825",
+        "location": "你的心里",
+        "name": "_互联网哈基米",
+        "pinned_tweet_id": "2039000504924311766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029592900804530176/u0zOE6RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 117,
+          "like_count": 1664,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/NL5JOaqit1",
+        "username": "1nternet_Hajimi",
+        "verified": false
+      }
+    ]
+  }
+}

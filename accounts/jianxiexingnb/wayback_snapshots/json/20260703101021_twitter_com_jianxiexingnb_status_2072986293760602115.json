@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2072986293760602115",
+    "created_at": "2026-07-03T10:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072986293760602115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041095876417122305",
+          "start": 3,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072986293760602115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070837913605050633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yihuiam: 朋友x被封了喵。帮他发一下下喵。🥺👊👊\ngins shop小店抽抽奖吖。\n以下是奖品:\n1.沉世1t\n2. 4ho 1t\n3.迷炫烟油5ml。\n4.绿普一盒。\n抽奖在8.6 12:00结算出结果哦\n期待中奖人呢。本次联系不上者。会将奖品重新抽取。\n参与…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2072986293760602115",
+        "created_at": "2026-07-03T10:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072986293760602115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041095876417122305",
+              "start": 3,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072986293760602115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070837913605050633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yihuiam: 朋友x被封了喵。帮他发一下下喵。🥺👊👊\ngins shop小店抽抽奖吖。\n以下是奖品:\n1.沉世1t\n2. 4ho 1t\n3.迷炫烟油5ml。\n4.绿普一盒。\n抽奖在8.6 12:00结算出结果哦\n期待中奖人呢。本次联系不上者。会将奖品重新抽取。\n参与…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041095876417122305",
+        "conversation_id": "2070837913605050633",
+        "created_at": "2026-06-27T11:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070837913605050633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070837913605050633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22194,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "朋友x被封了喵。帮他发一下下喵。🥺👊👊\ngins shop小店抽抽奖吖。\n以下是奖品:\n1.沉世1t\n2. 4ho 1t\n3.迷炫烟油5ml。\n4.绿普一盒。\n抽奖在8.6 12:00结算出结果哦\n期待中奖人呢。本次联系不上者。会将奖品重新抽取。\n参与方式是。关注+转发+喜欢+评论喵!（我也想抽奖喵..🥺）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 232,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 782,
+          "like_count": 4043,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

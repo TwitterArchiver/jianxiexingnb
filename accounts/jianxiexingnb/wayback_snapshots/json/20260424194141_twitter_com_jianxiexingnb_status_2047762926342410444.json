@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2047671767746199964",
+    "created_at": "2026-04-24T19:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047762926342410444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884449565044277248",
+          "start": 0,
+          "username": "nice1761022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047762926342410444",
+    "in_reply_to_user_id": "1884449565044277248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047746496989397290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nice1761022 愈美啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2047671767746199964",
+        "created_at": "2026-04-24T19:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047762926342410444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884449565044277248",
+              "start": 0,
+              "username": "nice1761022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047762926342410444",
+        "in_reply_to_user_id": "1884449565044277248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047746496989397290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nice1761022 愈美啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884449565044277248",
+        "conversation_id": "2047671767746199964",
+        "created_at": "2026-04-24T18:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047746496989397290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047746496989397290",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047671767746199964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 这什么药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2047246833131675722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 69,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 171
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T03:52:57.000Z",
+        "description": "",
+        "id": "1884449565044277248",
+        "name": "清醒的沉睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020619143503052800/C_cmd2Em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 175,
+          "like_count": 5143,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "nice1761022",
+        "verified": false
+      }
+    ]
+  }
+}

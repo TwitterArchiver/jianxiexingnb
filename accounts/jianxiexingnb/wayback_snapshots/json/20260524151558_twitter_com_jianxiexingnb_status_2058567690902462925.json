@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058567687601561600"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2058567690902462925",
+    "created_at": "2026-05-24T15:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058567690902462925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1283818798177370113",
+          "start": 22,
+          "username": "GuangXi06"
+        },
+        {
+          "end": 46,
+          "id": "1969724121027407872",
+          "start": 33,
+          "username": "Acidrain_ame"
+        },
+        {
+          "end": 62,
+          "id": "2033349756223909888",
+          "start": 53,
+          "username": "VERI2337"
+        },
+        {
+          "end": 81,
+          "id": "1870015266270113793",
+          "start": 69,
+          "username": "896for_ever"
+        },
+        {
+          "end": 96,
+          "id": "1838433917529149440",
+          "start": 82,
+          "username": "shwjwn2575471"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 124,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/zgnvjamvfr"
+        },
+        {
+          "display_url": "pic.x.com/XGHzGI2qX2",
+          "end": 148,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2058567690902462925/photo/1",
+          "media_key": "3_2058567687601561600",
+          "start": 125,
+          "url": "https://t.co/XGHzGI2qX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058567690902462925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @GuangXi06 @Acidrain_ame\n👰 配偶: @VERI2337\n👶 孩子: @896for_ever @shwjwn2575471\n\n➡️ https://t.co/zgnvjamvfr https://t.co/XGHzGI2qX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2058567687601561600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGAZ7WWoAAawqr.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058567687601561600"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2058567690902462925",
+        "created_at": "2026-05-24T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058567690902462925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1283818798177370113",
+              "start": 22,
+              "username": "GuangXi06"
+            },
+            {
+              "end": 46,
+              "id": "1969724121027407872",
+              "start": 33,
+              "username": "Acidrain_ame"
+            },
+            {
+              "end": 62,
+              "id": "2033349756223909888",
+              "start": 53,
+              "username": "VERI2337"
+            },
+            {
+              "end": 81,
+              "id": "1870015266270113793",
+              "start": 69,
+              "username": "896for_ever"
+            },
+            {
+              "end": 96,
+              "id": "1838433917529149440",
+              "start": 82,
+              "username": "shwjwn2575471"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/zgnvjamvfr"
+            },
+            {
+              "display_url": "pic.x.com/XGHzGI2qX2",
+              "end": 148,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2058567690902462925/photo/1",
+              "media_key": "3_2058567687601561600",
+              "start": 125,
+              "url": "https://t.co/XGHzGI2qX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058567690902462925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @GuangXi06 @Acidrain_ame\n👰 配偶: @VERI2337\n👶 孩子: @896for_ever @shwjwn2575471\n\n➡️ https://t.co/zgnvjamvfr https://t.co/XGHzGI2qX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 189,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:40:39.000Z",
+        "description": "19 | he/him｜ 负能量 | 想交朋友｜OD💊｜穿孔｜互fo｜不键政｜不卖东西｜大家快来找这个清平聊天呀｜",
+        "id": "1283818798177370113",
+        "location": "第四高原",
+        "name": "痛苦心事难言",
+        "pinned_tweet_id": "2056042624641798443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056582911160352768/GW69TNAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 237,
+          "like_count": 2132,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 358
+        },
+        "username": "GuangXi06",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T11:23:28.000Z",
+        "description": "",
+        "id": "1969724121027407872",
+        "name": "Acid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058182195429408768/WpUC32tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 59,
+          "like_count": 1909,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "Acidrain_ame",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T01:09:05.000Z",
+        "description": "我對不起所有人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/search/results…",
+                "end": 23,
+                "expanded_url": "http://open.spotify.com/search/results/Empathy",
+                "start": 0,
+                "url": "https://t.co/HMkygreske"
+              }
+            ]
+          }
+        },
+        "id": "2033349756223909888",
+        "location": "第三高原",
+        "name": "TPG72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052412296358674432/SxtrrZwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 4240,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/HMkygreske",
+        "username": "VERI2337",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T07:56:25.000Z",
+        "description": "誰願爲美麗信念坦克也震開\nnd/queer/2010/she or any/#MilkTeaAlliance\ni hate this place ffs everytime im here i sit on the skibidi toilet.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 38,
+                "tag": "MilkTeaAlliance"
+              }
+            ]
+          }
+        },
+        "id": "1870015266270113793",
+        "location": "時代革命",
+        "name": "其連",
+        "pinned_tweet_id": "2056273504212005233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058160435560669184/zCS0gPXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 371,
+          "like_count": 2116,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 508
+        },
+        "username": "896for_ever",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "location": "荒野之中",
+        "name": "hippie wildman",
+        "pinned_tweet_id": "2048431152642339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 182,
+          "like_count": 6331,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 239
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

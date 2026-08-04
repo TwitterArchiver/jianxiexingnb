@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055260716886794582",
+    "created_at": "2026-05-15T18:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055349031799554228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1649352789544534016",
+          "start": 0,
+          "username": "4kill_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055349031799554228",
+    "in_reply_to_user_id": "1649352789544534016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055260716886794582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4kill_n 理解 今すぐ通報する"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2055260712449323008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXAuo5bsAA-Joo.jpg",
+        "width": 674
+      },
+      {
+        "height": 305,
+        "media_key": "3_2055260712424120320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXAuozbIAA9SU8.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055260716886794582",
+        "created_at": "2026-05-15T18:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055349031799554228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649352789544534016",
+              "start": 0,
+              "username": "4kill_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055349031799554228",
+        "in_reply_to_user_id": "1649352789544534016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055260716886794582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4kill_n 理解 今すぐ通報する"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055260712449323008",
+            "3_2055260712424120320"
+          ]
+        },
+        "author_id": "1649352789544534016",
+        "conversation_id": "2055260716886794582",
+        "created_at": "2026-05-15T12:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055260716886794582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1t0Hkwysz",
+              "end": 134,
+              "expanded_url": "https://x.com/4kill_n/status/2055260716886794582/photo/1",
+              "media_key": "3_2055260712449323008",
+              "start": 111,
+              "url": "https://t.co/r1t0Hkwysz"
+            },
+            {
+              "display_url": "pic.x.com/r1t0Hkwysz",
+              "end": 134,
+              "expanded_url": "https://x.com/4kill_n/status/2055260716886794582/photo/1",
+              "media_key": "3_2055260712424120320",
+              "start": 111,
+              "url": "https://t.co/r1t0Hkwysz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055260716886794582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5711,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国版のTikTokで私の写真が無断転載されているみたいなので、アプリを入れてる方いたら通報していただけると助かります😭\n\n我的照片好像被未经允许转载到中国版TikTok上了，如果有人有这个软件的话，可以帮忙举报一下吗😭 https://t.co/r1t0Hkwysz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 138,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T10:02:12.000Z",
+        "description": "@44jester",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "44jester"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/HT5Z5BBD2SD5?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/jOmjExX5Tj"
+              }
+            ]
+          }
+        },
+        "id": "1649352789544534016",
+        "name": "⁴𝔨𝔦𝔩𝔩",
+        "pinned_tweet_id": "2008491992549126609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252273949458432/13hmKH95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 0,
+          "like_count": 6823,
+          "listed_count": 22,
+          "media_count": 262,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/jOmjExX5Tj",
+        "username": "4kill_n",
+        "verified": false
+      }
+    ]
+  }
+}

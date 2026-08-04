@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053420134451294208"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2053420137454387464",
+    "created_at": "2026-05-10T10:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053420137454387464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/70AVy5irh3",
+          "end": 99,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2053420137454387464/photo/1",
+          "media_key": "3_2053420134451294208",
+          "start": 76,
+          "url": "https://t.co/70AVy5irh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053420137454387464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "握草我真的要哭了你们知道吗 \n无论你是谁 天天开心 好好生活 我会记住你的 💗💗💗💗😭\n本来只是闲的没事干发了赞赏码没指望有人搭理我怎么真有人转啊😭😭 https://t.co/70AVy5irh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2053420134451294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH82u5iasAAGDtU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053420134451294208"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2053420137454387464",
+        "created_at": "2026-05-10T10:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053420137454387464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70AVy5irh3",
+              "end": 99,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2053420137454387464/photo/1",
+              "media_key": "3_2053420134451294208",
+              "start": 76,
+              "url": "https://t.co/70AVy5irh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053420137454387464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "握草我真的要哭了你们知道吗 \n无论你是谁 天天开心 好好生活 我会记住你的 💗💗💗💗😭\n本来只是闲的没事干发了赞赏码没指望有人搭理我怎么真有人转啊😭😭 https://t.co/70AVy5irh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053285946498621933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 108,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 309
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

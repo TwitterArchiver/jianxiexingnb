@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055627043719860700",
+    "created_at": "2026-05-16T14:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055664110512267364"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055664110512267364",
+    "in_reply_to_user_id": "2032985503621095424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055627043719860700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "22：52 有点眩晕 懵但还不至于懵逼 还有清楚的意识"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_2055627040007876609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcN5tZbcAEJ47T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055627043719860700",
+        "created_at": "2026-05-16T14:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055664110512267364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055664110512267364",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055627043719860700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22：52 有点眩晕 懵但还不至于懵逼 还有清楚的意识"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055627040007876609"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055627043719860700",
+        "created_at": "2026-05-16T12:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055627043719860700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouyVP5X84g",
+              "end": 114,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2055627043719860700/photo/1",
+              "media_key": "3_2055627040007876609",
+              "start": 91,
+              "url": "https://t.co/ouyVP5X84g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055627043719860700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人于20:30将分次服用共8t 300mg加巴喷丁+6t（60mg）美金刚测试这两种药物的效果\n需要提前声明的是 本人对加巴喷丁类药物没有耐受性 以前从未使用过 这次是第一次使用 https://t.co/ouyVP5X84g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 142,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

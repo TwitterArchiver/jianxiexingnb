@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046951181273137608",
+    "created_at": "2026-04-22T13:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046951181273137608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952938544730914816",
+          "start": 3,
+          "username": "keke1205_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ig",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/ig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046951181273137608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046903235626373314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keke1205_ovo: 关于柯柯的一些ovo\n重焦中郁3年丨09丨辍学丨自残od丨地雷系丨碎碎念ing.....\n前世叫季荒 不知道有没有小宝宝知道我呢\n\n想和同类女孩互fo聊天 小天使来的呀⦁𖥦⦁ᐝ\n会有cos产出 互fo查成分回o https://t.co/ig…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046951181273137608].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046951181273137608",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046951181273137608"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046903227376140288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgPo-1bAAAQdwn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046903227376140288"
+          ]
+        },
+        "author_id": "1952938544730914816",
+        "conversation_id": "2046903235626373314",
+        "created_at": "2026-04-22T10:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046903235626373314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ig48DPhpxy",
+              "end": 129,
+              "expanded_url": "https://x.com/keke1205_ovo/status/2046903235626373314/photo/1",
+              "media_key": "3_2046903227376140288",
+              "start": 106,
+              "url": "https://t.co/ig48DPhpxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903235626373314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于柯柯的一些ovo\n重焦中郁3年丨09丨辍学丨自残od丨地雷系丨碎碎念ing.....\n前世叫季荒 不知道有没有小宝宝知道我呢\n\n想和同类女孩互fo聊天 小天使来的呀⦁𖥦⦁ᐝ\n会有cos产出 互fo查成分回o https://t.co/ig48DPhpxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 140
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T03:43:36.000Z",
+        "description": "我叫柯柯⦁𖥦⦁ᐝ丨09丨对声音大or吵架严重ptsd丨重焦中郁丨odd割手手丨当pyq发丨 歡迎萌寶寶們互fo聊天～丨fo你就是喜欢你 想和你互fo交朋友  不回会取哦～ 丨下面有匿名可以找我玩o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//1lwxza/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//1lwxza/web?t=1776614780",
+                "start": 0,
+                "url": "https://t.co/mvWOzf8ZS1"
+              }
+            ]
+          }
+        },
+        "id": "1952938544730914816",
+        "location": "柯柯天使治疗中心",
+        "name": "keke",
+        "pinned_tweet_id": "2046903235626373314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046691759535906816/_H20RV3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 22,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/mvWOzf8ZS1",
+        "username": "keke1205_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

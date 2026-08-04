@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2045128466685919456",
+    "created_at": "2026-04-17T14:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045146269904163134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045146269904163134",
+    "in_reply_to_user_id": "2032985503621095424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045128466685919456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "•22:20 药效好像有点起来了 我现在特别懵逼  我跟一个新生儿一样茫然的望着这个世界 我觉得我脑子里好像有什么东西  差点呕吐 喝了点茶缓解 好兴奋呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2045128466685919456",
+        "created_at": "2026-04-17T14:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045146269904163134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045146269904163134",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045128466685919456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "•22:20 药效好像有点起来了 我现在特别懵逼  我跟一个新生儿一样茫然的望着这个世界 我觉得我脑子里好像有什么东西  差点呕吐 喝了点茶缓解 好兴奋呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2045128466685919456",
+        "created_at": "2026-04-17T13:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045128466685919456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045128466685919456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21点08分 先是用西柚汁送服了6t愈美  一分钟后胃部和食道明显有点发烫  （这个正常吗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/无性别/不爱男不爱女/intp/od/文艺逼/双相I型",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "𝑬𝒓𝒐𝒔 𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒂𝒕𝒐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

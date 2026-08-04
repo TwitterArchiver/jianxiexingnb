@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055908770732204032"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055908800989896914",
+    "created_at": "2026-05-17T07:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055908800989896914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dGWYQ7AWJg",
+          "end": 36,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2055908800989896914/photo/1",
+          "media_key": "3_2055908770732204032",
+          "start": 13,
+          "url": "https://t.co/dGWYQ7AWJg"
+        },
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2055894678189539648",
+          "start": 37,
+          "url": "https://t.co/hW6rjF5De2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055908800989896914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055894678189539648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢17老师 剧烈收取… https://t.co/dGWYQ7AWJg https://t.co/hW6rjF5De2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_2055908770732204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgOImIaYAAq8f3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055908770732204032"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055908800989896914",
+        "created_at": "2026-05-17T07:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055908800989896914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGWYQ7AWJg",
+              "end": 36,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2055908800989896914/photo/1",
+              "media_key": "3_2055908770732204032",
+              "start": 13,
+              "url": "https://t.co/dGWYQ7AWJg"
+            },
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2055894678189539648",
+              "start": 37,
+              "url": "https://t.co/hW6rjF5De2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055908800989896914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055894678189539648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢17老师 剧烈收取… https://t.co/dGWYQ7AWJg https://t.co/hW6rjF5De2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2055894678189539648",
+        "created_at": "2026-05-17T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055894678189539648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902512265301258243",
+              "start": 2,
+              "username": "sacred1124"
+            },
+            {
+              "end": 27,
+              "id": "1780055196460048385",
+              "start": 16,
+              "username": "Lzg_Althea"
+            },
+            {
+              "end": 39,
+              "id": "1545382603703721984",
+              "start": 30,
+              "username": "zi666888"
+            },
+            {
+              "end": 54,
+              "id": "1997644719908884480",
+              "start": 42,
+              "username": "Oz_Garlandd"
+            },
+            {
+              "end": 68,
+              "id": "1916113741328093187",
+              "start": 57,
+              "username": "0nemoresec"
+            },
+            {
+              "end": 86,
+              "id": "1493482825546297349",
+              "start": 71,
+              "username": "maimaiPinkPlus"
+            },
+            {
+              "end": 100,
+              "id": "1912667915251511296",
+              "start": 89,
+              "username": "Ciky_Shore"
+            },
+            {
+              "end": 119,
+              "id": "1810949901708316674",
+              "start": 103,
+              "username": "qq3882917648785"
+            },
+            {
+              "end": 130,
+              "id": "1128010587089264640",
+              "start": 122,
+              "username": "uixxixu"
+            },
+            {
+              "end": 141,
+              "id": "2012841769105567744",
+              "start": 134,
+              "username": "18nuun"
+            },
+            {
+              "end": 157,
+              "id": "1160049686838960129",
+              "start": 145,
+              "username": "fox85685848"
+            },
+            {
+              "end": 175,
+              "id": "2032985503621095424",
+              "start": 161,
+              "username": "jianxiexingnb"
+            },
+            {
+              "end": 190,
+              "id": "1873708075619946497",
+              "start": 179,
+              "username": "qik1182069"
+            },
+            {
+              "end": 208,
+              "id": "1603310799618859008",
+              "start": 194,
+              "username": "sanyangyunyun"
+            },
+            {
+              "end": 227,
+              "id": "1243590342911410176",
+              "start": 212,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 244,
+              "id": "2041380427873566720",
+              "start": 231,
+              "username": "shigin218150"
+            },
+            {
+              "end": 259,
+              "id": "2040046030436106240",
+              "start": 248,
+              "username": "lala577836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 283,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2049371169586098471",
+              "start": 260,
+              "url": "https://t.co/Ss9jYPvkhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055894678189539648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049371169586098471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.@sacred1124\n2.@Lzg_Althea\n3.@zi666888\n4.@Oz_Garlandd\n5.@0nemoresec\n6.@maimaiPinkPlus\n7.@Ciky_Shore\n8.@qq3882917648785\n9.@uixxixu\n10.@18nuun\n11.@fox85685848\n12.@jianxiexingnb\n13.@qik1182069\n14.@sanyangyunyun\n15.@bing2000100830\n16.@shigin218150\n17.@lala577836 https://t.co/Ss9jYPvkhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 151,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回私我)/备用号:@jiuyouforwhite2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 1431,
+          "like_count": 4401,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2204
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

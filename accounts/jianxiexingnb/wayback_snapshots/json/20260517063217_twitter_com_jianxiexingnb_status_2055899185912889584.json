@@ -1,0 +1,614 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2055899185912889584",
+    "created_at": "2026-05-17T06:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055899185912889584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1608829820737314817",
+          "start": 3,
+          "username": "Yazawashize"
+        }
+      ],
+      "urls": [
+        {
+          "description": "one day, They will take this account from me.",
+          "display_url": "x.com/rx",
+          "end": 139,
+          "expanded_url": "https://x.com/rx",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2054193564108587008/v2mTl_FZ?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2054193564108587008/v2mTl_FZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Thomas (@rx) on X",
+          "unwound_url": "https://twitter.com/rx",
+          "url": "https://t.co/T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055899185912889584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055568521846038674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yazawashize: 𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀。\n歡迎光臨。我的 負能量堆積地𓉸ྀི 🐾\n\n✧我喜歡日語 喜歡ボカロ\n✧精神不太穩定…藥物依賴不是我的錯\n✧永遠沈浸在自己的世界中…\n\n我討厭這個世界，我討厭一切ʢᴗ.ᴗʡᶻ\n\n🎧 ♪ https://t.co/T…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055568513692299264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbYrB4bcAADUxK.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2055568513696501760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbYrB5bkAAHe89.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055568513692217344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbYrB4aMAAKE0j.jpg",
+        "width": 1636
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055568513696481280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbYrB5bQAAlAkJ.jpg",
+        "width": 1636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2055899185912889584",
+        "created_at": "2026-05-17T06:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055899185912889584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1608829820737314817",
+              "start": 3,
+              "username": "Yazawashize"
+            }
+          ],
+          "urls": [
+            {
+              "description": "one day, They will take this account from me.",
+              "display_url": "x.com/rx",
+              "end": 139,
+              "expanded_url": "https://x.com/rx",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2054193564108587008/v2mTl_FZ?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054193564108587008/v2mTl_FZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Thomas (@rx) on X",
+              "unwound_url": "https://twitter.com/rx",
+              "url": "https://t.co/T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055899185912889584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055568521846038674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yazawashize: 𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀。\n歡迎光臨。我的 負能量堆積地𓉸ྀི 🐾\n\n✧我喜歡日語 喜歡ボカロ\n✧精神不太穩定…藥物依賴不是我的錯\n✧永遠沈浸在自己的世界中…\n\n我討厭這個世界，我討厭一切ʢᴗ.ᴗʡᶻ\n\n🎧 ♪ https://t.co/T…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055568513692299264",
+            "3_2055568513696501760",
+            "3_2055568513692217344",
+            "3_2055568513696481280"
+          ]
+        },
+        "author_id": "1608829820737314817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2055568521846038674",
+        "created_at": "2026-05-16T08:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055568521846038674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《PLATINA SCALE》，由 東雪蓮 演唱，收录于《追憶》专辑中，《PLATINA SCALE》下载，《PLATINA SCALE》在线试听，更多PLATINA SCALE相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/69ZRl6A",
+              "end": 131,
+              "expanded_url": "https://163cn.tv/69ZRl6A",
+              "images": [
+                {
+                  "height": 1600,
+                  "url": "https://pbs.twimg.com/news_img/2055568584936718336/8JtcLbHn?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055568584936718336/8JtcLbHn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "PLATINA SCALE - 東雪蓮 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3326279642&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=510273361&playerUIModeId=76001&app_version=9.5.07&dlt=0846",
+              "url": "https://t.co/T5dW5kG3km"
+            },
+            {
+              "display_url": "pic.x.com/0mhvtNTFmO",
+              "end": 188,
+              "expanded_url": "https://x.com/Yazawashize/status/2055568521846038674/photo/1",
+              "media_key": "3_2055568513692299264",
+              "start": 165,
+              "url": "https://t.co/0mhvtNTFmO"
+            },
+            {
+              "display_url": "pic.x.com/0mhvtNTFmO",
+              "end": 188,
+              "expanded_url": "https://x.com/Yazawashize/status/2055568521846038674/photo/1",
+              "media_key": "3_2055568513696501760",
+              "start": 165,
+              "url": "https://t.co/0mhvtNTFmO"
+            },
+            {
+              "display_url": "pic.x.com/0mhvtNTFmO",
+              "end": 188,
+              "expanded_url": "https://x.com/Yazawashize/status/2055568521846038674/photo/1",
+              "media_key": "3_2055568513692217344",
+              "start": 165,
+              "url": "https://t.co/0mhvtNTFmO"
+            },
+            {
+              "display_url": "pic.x.com/0mhvtNTFmO",
+              "end": 188,
+              "expanded_url": "https://x.com/Yazawashize/status/2055568521846038674/photo/1",
+              "media_key": "3_2055568513696481280",
+              "start": 165,
+              "url": "https://t.co/0mhvtNTFmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055568521846038674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀。\n歡迎光臨。我的 負能量堆積地𓉸ྀི 🐾\n\n✧我喜歡日語 喜歡ボカロ\n✧精神不太穩定…藥物依賴不是我的錯\n✧永遠沈浸在自己的世界中…\n\n我討厭這個世界，我討厭一切ʢᴗ.ᴗʡᶻ\n\n🎧 ♪ https://t.co/T5dW5kG3km \nいつか、一切の悩みから解放されたまま眠りにつけること♫ྀི⋆⑅ https://t.co/0mhvtNTFmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 151,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T14:18:30.000Z",
+        "description": "=泽泽 INFJ https://t.co/HfBpX1ImkN 随时欢迎🥺🤲🏻…\n期待なんてされてない できない いらない❤︎ ｜抑郁症患者｜间歇性精分｜♡overdose♡｜NIC重度依赖晚期｜日本留学准备中｜ 成人済｜できれば、谁とも关わりたくない..",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yazawashize",
+                "end": 32,
+                "expanded_url": "https://ngl.link/yazawashize",
+                "start": 9,
+                "url": "https://t.co/HfBpX1ImkN"
+              }
+            ]
+          }
+        },
+        "id": "1608829820737314817",
+        "location": "白日夢幻想鄉",
+        "name": "✟ 昇天 ✟",
+        "pinned_tweet_id": "2055568521846038674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 302,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "Yazawashize",
+        "verified": false
+      }
+    ]
+  }
+}

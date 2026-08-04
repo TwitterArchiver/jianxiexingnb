@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061091824576729088",
+        "3_2061091824576724992",
+        "3_2061091824635383808",
+        "3_2061091824589328384"
+      ],
+      "media_source_tweet_id": [
+        "2061092260226502954",
+        "2061092260226502954",
+        "2061092260226502954",
+        "2061092260226502954"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2071943329282154637",
+    "created_at": "2026-06-30T13:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071943329282154637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "个人简介"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTDbq8OTnx",
+          "end": 98,
+          "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+          "media_key": "3_2061091824576729088",
+          "start": 75,
+          "url": "https://t.co/aTDbq8OTnx"
+        },
+        {
+          "display_url": "pic.x.com/aTDbq8OTnx",
+          "end": 98,
+          "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+          "media_key": "3_2061091824576724992",
+          "start": 75,
+          "url": "https://t.co/aTDbq8OTnx"
+        },
+        {
+          "display_url": "pic.x.com/aTDbq8OTnx",
+          "end": 98,
+          "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+          "media_key": "3_2061091824635383808",
+          "start": 75,
+          "url": "https://t.co/aTDbq8OTnx"
+        },
+        {
+          "display_url": "pic.x.com/aTDbq8OTnx",
+          "end": 98,
+          "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+          "media_key": "3_2061091824589328384",
+          "start": 75,
+          "url": "https://t.co/aTDbq8OTnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071943329282154637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061092260226502954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: #个人简介\n日本朋友教我做的模板，话说这么做像我这样的人真的能交到朋友吗，我只会把关系搞砸，维持关系真的很困难呐 https://t.co/aTDbq8OTnx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2061091824576729088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCVbkAAe-QG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2061091824576724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCVbgAABz-H.jpg",
+        "width": 940
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2061091824635383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCjakAAdoKq.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2061091824589328384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp4GCYb0AASCLW.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061091824576729088",
+            "3_2061091824576724992",
+            "3_2061091824635383808",
+            "3_2061091824589328384"
+          ],
+          "media_source_tweet_id": [
+            "2061092260226502954",
+            "2061092260226502954",
+            "2061092260226502954",
+            "2061092260226502954"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2071943329282154637",
+        "created_at": "2026-06-30T13:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071943329282154637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "个人简介"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 98,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576729088",
+              "start": 75,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 98,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576724992",
+              "start": 75,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 98,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824635383808",
+              "start": 75,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 98,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824589328384",
+              "start": 75,
+              "url": "https://t.co/aTDbq8OTnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071943329282154637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061092260226502954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: #个人简介\n日本朋友教我做的模板，话说这么做像我这样的人真的能交到朋友吗，我只会把关系搞砸，维持关系真的很困难呐 https://t.co/aTDbq8OTnx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061091824576729088",
+            "3_2061091824576724992",
+            "3_2061091824635383808",
+            "3_2061091824589328384"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2061092260226502954",
+        "created_at": "2026-05-31T14:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061092260226502954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "个人简介"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576729088",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824576724992",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824635383808",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            },
+            {
+              "display_url": "pic.x.com/aTDbq8OTnx",
+              "end": 80,
+              "expanded_url": "https://x.com/crossyangshe/status/2061092260226502954/photo/1",
+              "media_key": "3_2061091824589328384",
+              "start": 57,
+              "url": "https://t.co/aTDbq8OTnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061092260226502954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 904,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#个人简介\n日本朋友教我做的模板，话说这么做像我这样的人真的能交到朋友吗，我只会把关系搞砸，维持关系真的很困难呐 https://t.co/aTDbq8OTnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 226,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 245,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

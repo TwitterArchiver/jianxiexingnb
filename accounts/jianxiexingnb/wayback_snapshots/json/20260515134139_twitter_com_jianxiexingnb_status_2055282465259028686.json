@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055250672657064041",
+    "created_at": "2026-05-15T13:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055282465259028686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055282465259028686",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055250672657064041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 msk太坏了 来支持17了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2055250608953966592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW3iicbQAAcZ3b.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055250672657064041",
+        "created_at": "2026-05-15T13:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055282465259028686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055282465259028686",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250672657064041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 msk太坏了 来支持17了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055250608953966592"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2055250672657064041",
+        "created_at": "2026-05-15T11:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055250672657064041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOyhCt3pfR",
+              "end": 161,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2055250672657064041/photo/1",
+              "media_key": "3_2055250608953966592",
+              "start": 138,
+              "url": "https://t.co/vOyhCt3pfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055250672657064041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是 反胃的Sisyphus(十七)\n本账号 反胃的YozoOba 作为备用号\n一号目前因为eat xanax被误封 申诉近三天无回应\n\n暂时用本账号回复大家问题，\n后面一号如果复活的话用本账号发trip记录或者其他什么东西(待定)\n这里希望大家帮我转帖\n谢谢你们 爱你们. https://t.co/vOyhCt3pfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 137,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "反胃的YozoOba/一号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xingstaro"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "futi999139732"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "YozoOba反胃的",
+        "pinned_tweet_id": "2055250672657064041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 8,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2053475335602405465",
+    "created_at": "2026-05-10T14:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053476938816356789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682793693630304260",
+          "start": 0,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053476938816356789",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053475335602405465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gpSillyB 他在我那个精品神药的帖子下面也评论了 特别诡异 感觉像是精分了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2053475212440776704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9o03CaMAAgsxa.png",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2053475335602405465",
+        "created_at": "2026-05-10T14:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053476938816356789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053476938816356789",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053475335602405465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 他在我那个精品神药的帖子下面也评论了 特别诡异 感觉像是精分了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053475212440776704"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053475335602405465",
+        "created_at": "2026-05-10T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053475335602405465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BB1EwvQaVd",
+              "end": 43,
+              "expanded_url": "https://x.com/gpSillyB/status/2053475335602405465/photo/1",
+              "media_key": "3_2053475212440776704",
+              "start": 20,
+              "url": "https://t.co/BB1EwvQaVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053475335602405465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操这是啥，吓死我了😱我也没吃致幻剂啊 https://t.co/BB1EwvQaVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053285946498621933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 110,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 152,
+          "like_count": 3974,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 864
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

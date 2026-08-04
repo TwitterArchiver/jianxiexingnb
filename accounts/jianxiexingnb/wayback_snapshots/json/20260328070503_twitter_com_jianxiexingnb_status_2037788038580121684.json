@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2037788038580121684",
+    "created_at": "2026-03-28T07:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037788038580121684"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037788038580121684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有学历 近视眼戴个眼镜就说自己是 hot nerd的人是不是对这个词有什么误解？好歹也得有点智识含量吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2037788038580121684",
+        "created_at": "2026-03-28T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037788038580121684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037788038580121684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有学历 近视眼戴个眼镜就说自己是 hot nerd的人是不是对这个词有什么误解？好歹也得有点智识含量吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "tumblr：https://t.co/bEkrvhrKtq\n\nins：https://t.co/DJxdwSZNNa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/occasionalcrav…",
+                "end": 30,
+                "expanded_url": "https://www.tumblr.com/occasionalcraving?source=share",
+                "start": 7,
+                "url": "https://t.co/bEkrvhrKtq"
+              },
+              {
+                "display_url": "instagram.com/jianxiexing712…",
+                "end": 59,
+                "expanded_url": "https://www.instagram.com/jianxiexing712?igsh=Y2p0bHVmeGI1MHQ1",
+                "start": 36,
+                "url": "https://t.co/DJxdwSZNNa"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "name": "间歇性依赖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047354518749511680"
+      ],
+      "media_source_tweet_id": [
+        "2047354525493952972"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2047377198299201770",
+    "created_at": "2026-04-23T18:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047377198299201770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952938544730914816",
+          "start": 3,
+          "username": "keke1205_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmPH0ZvWvX",
+          "end": 79,
+          "expanded_url": "https://x.com/keke1205_ovo/status/2047354525493952972/photo/1",
+          "media_key": "3_2047354518749511680",
+          "start": 56,
+          "url": "https://t.co/SmPH0ZvWvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047377198299201770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047354525493952972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keke1205_ovo: 关于柯柯的一些鸭\n\n互转互fo你先我后鸭|查成分o\n没回就是被制裁了eee https://t.co/SmPH0ZvWvX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047377198299201770].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047377198299201770",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047377198299201770"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047354518749511680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmqFmNbAAALbYi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047354518749511680"
+          ]
+        },
+        "author_id": "1952938544730914816",
+        "conversation_id": "2047354525493952972",
+        "created_at": "2026-04-23T16:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047354525493952972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmPH0ZvWvX",
+              "end": 61,
+              "expanded_url": "https://x.com/keke1205_ovo/status/2047354525493952972/photo/1",
+              "media_key": "3_2047354518749511680",
+              "start": 38,
+              "url": "https://t.co/SmPH0ZvWvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047354525493952972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于柯柯的一些鸭\n\n互转互fo你先我后鸭|查成分o\n没回就是被制裁了eee https://t.co/SmPH0ZvWvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2047246833131675722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 61,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 147
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T03:43:36.000Z",
+        "description": "我叫柯柯⦁𖥦⦁ᐝ丨09丨对声音大or吵架严重ptsd丨重焦中郁丨odd割手手丨当pyq发丨 歡迎萌寶寶們互fo聊天～丨fo你就是喜欢你 想和你互fo交朋友  不回会取哦～ 丨下面有匿名可以找我玩o",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brothergo.com//1lwxza/web?t=…",
+                "end": 23,
+                "expanded_url": "https://www.brothergo.com//1lwxza/web?t=1776614780",
+                "start": 0,
+                "url": "https://t.co/mvWOzf8ZS1"
+              }
+            ]
+          }
+        },
+        "id": "1952938544730914816",
+        "location": "柯柯天使治疗中心",
+        "name": "keke",
+        "pinned_tweet_id": "2047354525493952972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046691759535906816/_H20RV3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 31,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/mvWOzf8ZS1",
+        "username": "keke1205_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

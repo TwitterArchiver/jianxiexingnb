@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2055789802289803585",
+    "created_at": "2026-05-17T06:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055898212658196582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608829820737314817",
+          "start": 0,
+          "username": "Yazawashize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055898212658196582",
+    "in_reply_to_user_id": "1608829820737314817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055890421143015440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yazawashize 解离鬼👻来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2055789802289803585",
+        "created_at": "2026-05-17T06:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055898212658196582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608829820737314817",
+              "start": 0,
+              "username": "Yazawashize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055898212658196582",
+        "in_reply_to_user_id": "1608829820737314817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055890421143015440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yazawashize 解离鬼👻来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608829820737314817",
+        "conversation_id": "2055789802289803585",
+        "created_at": "2026-05-17T05:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055890421143015440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055890421143015440",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055789802289803585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 我又想mjg了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2053787522434744661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 150,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T14:18:30.000Z",
+        "description": "=泽泽 INFJ https://t.co/HfBpX1ImkN 随时欢迎🥺🤲🏻…\n期待なんてされてない できない いらない❤︎ ｜抑郁症患者｜间歇性精分｜♡overdose♡｜NIC重度依赖晚期｜日本留学准备中｜ 成人済｜できれば、谁とも关わりたくない..",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yazawashize",
+                "end": 32,
+                "expanded_url": "https://ngl.link/yazawashize",
+                "start": 9,
+                "url": "https://t.co/HfBpX1ImkN"
+              }
+            ]
+          }
+        },
+        "id": "1608829820737314817",
+        "location": "白日夢幻想鄉",
+        "name": "✟ 昇天 ✟",
+        "pinned_tweet_id": "2055568521846038674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 302,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 233
+        },
+        "username": "Yazawashize",
+        "verified": false
+      }
+    ]
+  }
+}

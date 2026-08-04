@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2046247549573771409",
+    "created_at": "2026-04-20T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046247549573771409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1847151449433907200",
+          "start": 3,
+          "username": "neng_tai74499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046247549573771409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042731813744054341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neng_tai74499: 想跟自残od的妹子互fo\n可以帮忙转转吗！谢谢宝贝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2046247549573771409",
+        "created_at": "2026-04-20T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046247549573771409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1847151449433907200",
+              "start": 3,
+              "username": "neng_tai74499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046247549573771409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042731813744054341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neng_tai74499: 想跟自残od的妹子互fo\n可以帮忙转转吗！谢谢宝贝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847151449433907200",
+        "conversation_id": "2042731813744054341",
+        "created_at": "2026-04-10T22:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042731813744054341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042731813744054341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 896,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想跟自残od的妹子互fo\n可以帮忙转转吗！谢谢宝贝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/无性别/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 22,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:43:34.000Z",
+        "description": "🉑交友扩列qq:3398164239\n接雪兔定制\n凉席（一排）15r\n真皮30r\n脂肪55r\n血管（小静脉）150r",
+        "id": "1847151449433907200",
+        "name": "太阳能",
+        "pinned_tweet_id": "2042730707207028977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848218051977863168/45KemVq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 96,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 45
+        },
+        "username": "neng_tai74499",
+        "verified": false
+      }
+    ]
+  }
+}

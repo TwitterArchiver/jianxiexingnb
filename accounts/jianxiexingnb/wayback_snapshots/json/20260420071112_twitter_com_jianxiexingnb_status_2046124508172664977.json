@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2045330605500698957",
+    "created_at": "2026-04-20T07:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046124508172664977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045022236201918465",
+          "start": 0,
+          "username": "cVPrL20wIa42392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046124508172664977",
+    "in_reply_to_user_id": "2045022236201918465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045330605500698957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cVPrL20wIa42392 亲爱的🉑互fo吗 QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045330588773834752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ5VXga4AA9TXV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045330588765491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ5VXebkAAUYet.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045330588773851136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ5VXgbIAAC3Pt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045330589033832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ5VYeaIAA6hbX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2045330605500698957",
+        "created_at": "2026-04-20T07:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046124508172664977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046124508172664977",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045330605500698957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 亲爱的🉑互fo吗 QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045330588773834752",
+            "3_2045330588765491200",
+            "3_2045330588773851136",
+            "3_2045330589033832448"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045330605500698957",
+        "created_at": "2026-04-18T02:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045330605500698957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBSeHDYIRd",
+              "end": 169,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045330605500698957/photo/1",
+              "media_key": "3_2045330588773834752",
+              "start": 146,
+              "url": "https://t.co/NBSeHDYIRd"
+            },
+            {
+              "display_url": "pic.x.com/NBSeHDYIRd",
+              "end": 169,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045330605500698957/photo/1",
+              "media_key": "3_2045330588765491200",
+              "start": 146,
+              "url": "https://t.co/NBSeHDYIRd"
+            },
+            {
+              "display_url": "pic.x.com/NBSeHDYIRd",
+              "end": 169,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045330605500698957/photo/1",
+              "media_key": "3_2045330588773851136",
+              "start": 146,
+              "url": "https://t.co/NBSeHDYIRd"
+            },
+            {
+              "display_url": "pic.x.com/NBSeHDYIRd",
+              "end": 169,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045330605500698957/photo/1",
+              "media_key": "3_2045330589033832448",
+              "start": 146,
+              "url": "https://t.co/NBSeHDYIRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045330605500698957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7106,
+          "like_count": 114,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "自介\nod/不🩸🔪/简繁中🇨🇳日语🇯🇵德语🇩🇪/pr白兔4ho致幻等重度依赖/药理学习中.../针灸/文玩/肌注/同类互fo/请不要问我物质渠道🥺也不出售物质，抱歉!!!/发点嗑药日常/二三涉/\n有问题可以直接私信（匿名提问🉑）\n关于trip报告放在这里评论区，\n只要活着就会一直更新... https://t.co/NBSeHDYIRd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/无性别/不爱男不爱女/intp/od/文艺逼/双相I型",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 333,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

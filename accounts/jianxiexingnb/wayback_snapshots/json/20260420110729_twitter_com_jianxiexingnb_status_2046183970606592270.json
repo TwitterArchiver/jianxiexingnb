@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2045371368074809756",
+    "created_at": "2026-04-20T11:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046183970606592270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026548163004559360",
+          "start": 0,
+          "username": "Ninaaapple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046183970606592270",
+    "in_reply_to_user_id": "2026548163004559360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046131335983477216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninaaapple 来啦💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2045371368074809756",
+        "created_at": "2026-04-20T11:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046183970606592270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026548163004559360",
+              "start": 0,
+              "username": "Ninaaapple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046183970606592270",
+        "in_reply_to_user_id": "2026548163004559360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046131335983477216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninaaapple 来啦💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026548163004559360",
+        "conversation_id": "2045371368074809756",
+        "created_at": "2026-04-20T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046131335983477216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046131335983477216",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045371368074809756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/无性别/不爱男不爱女/intp/od/文艺逼/双相I型",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 76
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:43:10.000Z",
+        "description": "I'm Nina.🏳️‍🌈\nIloveyouforeverIhateyouforever",
+        "id": "2026548163004559360",
+        "location": "瑞士 沃",
+        "name": "Nina",
+        "pinned_tweet_id": "2046090310107775320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046083071716339712/T8jhO2Pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Ninaaapple",
+        "verified": false
+      }
+    ]
+  }
+}

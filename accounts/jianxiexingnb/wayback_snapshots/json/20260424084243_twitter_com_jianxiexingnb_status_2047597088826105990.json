@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2047597088826105990",
+    "created_at": "2026-04-24T08:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047597088826105990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878091007453286400",
+          "start": 3,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047597088826105990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047591762332614914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EoivLanY: ❤️150fo 福利变更❤️\n🥺Top1五盒150mg普瑞/4盒愈美片🥺\n🤩Top2 1盒75mg普瑞/1盒愈美片🤩\n🥳Top3 wx/zfb打款25.5r🥳\n🪄转发抽奖🪄\n🪄抽烟有奖🪄\n🥰第一 5盒利群 黑 红都可以🥰\n😘第二 66.66r wx/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2047597088826105990",
+        "created_at": "2026-04-24T08:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047597088826105990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878091007453286400",
+              "start": 3,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047597088826105990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047591762332614914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EoivLanY: ❤️150fo 福利变更❤️\n🥺Top1五盒150mg普瑞/4盒愈美片🥺\n🤩Top2 1盒75mg普瑞/1盒愈美片🤩\n🥳Top3 wx/zfb打款25.5r🥳\n🪄转发抽奖🪄\n🪄抽烟有奖🪄\n🥰第一 5盒利群 黑 红都可以🥰\n😘第二 66.66r wx/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878091007453286400",
+        "conversation_id": "2047591762332614914",
+        "created_at": "2026-04-24T08:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047591762332614914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047591762332614914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "❤️150fo 福利变更❤️\n🥺Top1五盒150mg普瑞/4盒愈美片🥺\n🤩Top2 1盒75mg普瑞/1盒愈美片🤩\n🥳Top3 wx/zfb打款25.5r🥳\n🪄转发抽奖🪄\n🪄抽烟有奖🪄\n🥰第一 5盒利群 黑 红都可以🥰\n😘第二 66.66r wx/zfb打款 😘\n（pr/ym代购直接私信我或tg找我）\n全天24小时专人接待/秒回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2047246833131675722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 62,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 149
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "耐药王子 10800mg普瑞耐活王 交朋友/互fo/血图od/喜欢听歌/双相/重度抑郁/重度焦虑/代购普瑞愈美片",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2046898960300957923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 75,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 46
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

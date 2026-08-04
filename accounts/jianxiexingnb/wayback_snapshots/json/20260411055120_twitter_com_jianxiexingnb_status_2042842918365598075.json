@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2042842918365598075",
+    "created_at": "2026-04-11T05:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042842918365598075"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042842918365598075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老实说sbti这种做出来就是为了娱乐的东西也能被扯到女权这一方面那么你们赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2042842918365598075",
+        "created_at": "2026-04-11T05:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042842918365598075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042842918365598075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老实说sbti这种做出来就是为了娱乐的东西也能被扯到女权这一方面那么你们赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "这个号当吐槽号用 什么东西都会发 语气不会太好\n\ntumblr：https://t.co/bEkrvhrKtq\nins：https://t.co/DJxdwSZNNa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/occasionalcrav…",
+                "end": 55,
+                "expanded_url": "https://www.tumblr.com/occasionalcraving?source=share",
+                "start": 32,
+                "url": "https://t.co/bEkrvhrKtq"
+              },
+              {
+                "display_url": "instagram.com/jianxiexing712…",
+                "end": 83,
+                "expanded_url": "https://www.instagram.com/jianxiexing712?igsh=Y2p0bHVmeGI1MHQ1",
+                "start": 60,
+                "url": "https://t.co/DJxdwSZNNa"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "name": "𝑬𝒓𝒐𝒔 𝑨𝒏𝒅 𝑻𝒉𝒂𝒏𝒂𝒕𝒐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

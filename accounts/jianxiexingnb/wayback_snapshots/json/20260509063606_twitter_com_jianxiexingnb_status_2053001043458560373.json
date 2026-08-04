@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2052992768298168598",
+    "created_at": "2026-05-09T06:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053001043458560373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046995754498084864",
+          "start": 0,
+          "username": "Lizi__QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053001043458560373",
+    "in_reply_to_user_id": "2046995754498084864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052992768298168598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizi__QwQ 我喜欢🌰🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052992768298168598].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052992768298168598",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052992768298168598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2052992768298168598",
+        "created_at": "2026-05-09T06:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053001043458560373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046995754498084864",
+              "start": 0,
+              "username": "Lizi__QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053001043458560373",
+        "in_reply_to_user_id": "2046995754498084864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052992768298168598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizi__QwQ 我喜欢🌰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 87,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 269
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T16:53:34.000Z",
+        "description": "od丨餐券丨从良账号丨血图负能见@Tbloodtrip",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Tbloodtrip"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nnbn17594",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nnbn17594",
+                "start": 0,
+                "url": "https://t.co/hXYe4UGBB1"
+              }
+            ]
+          }
+        },
+        "id": "2046995754498084864",
+        "location": "天國",
+        "name": "🌰 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 195,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/hXYe4UGBB1",
+        "username": "Lizi__QwQ",
+        "verified": false
+      }
+    ]
+  }
+}
