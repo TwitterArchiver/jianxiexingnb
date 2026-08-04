@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-04T11:57:35",
+  "last_updated": "2026-08-04T11:57:59",
   "html": {
     "https://web.archive.org/web/20260328073155if_/https://twitter.com/jianxiexingnb/status/2037794802419515834": {
       "status": "done",
@@ -5657,9 +5657,9 @@
       "referenced_by": [
         "20260424084308_twitter_com_jianxiexingnb_status_2047597194262503661.json"
       ],
-      "last_updated": "2026-08-04T11:45:36",
+      "last_updated": "2026-08-04T11:57:57",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260424084308/https://video.twimg.com/amplify_video/2047533676096004096/vid/avc1/960x720/7S6LHPcvwA4LGpgi.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HE95bnRaMAAPWkg.mp4": {
       "status": "done",
@@ -5673,9 +5673,9 @@
       "referenced_by": [
         "20260430103217_twitter_com_jianxiexingnb_status_2049798991681065240.json"
       ],
-      "last_updated": "2026-08-04T11:45:36",
+      "last_updated": "2026-08-04T11:57:59",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260430103217/https://video.twimg.com/amplify_video/2049795111417262080/vid/avc1/720x960/0Q-Lqijd6c3JHNmt.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HNj6K-lboAEqj70.mp4": {
       "status": "done",
