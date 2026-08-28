@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2091937718674796826",
+    "created_at": "2026-08-24T17:16:33.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091937718674796826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2010841800928641025",
+          "start": 3,
+          "username": "stressgender"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091937718674796826",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9340
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090515366573384142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stressgender: 내가 담배 피워야 할지, 자위해야 할지, 아니면 자살해야 할지 고민하는 중"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2091937718674796826",
+        "created_at": "2026-08-24T17:16:33.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091937718674796826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2010841800928641025",
+              "start": 3,
+              "username": "stressgender"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091937718674796826",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9340
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090515366573384142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stressgender: 내가 담배 피워야 할지, 자위해야 할지, 아니면 자살해야 할지 고민하는 중"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010841800928641025",
+        "conversation_id": "2090515366573384142",
+        "created_at": "2026-08-20T19:04:37.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090515366573384142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090515366573384142",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1939,
+          "impression_count": 3042105,
+          "like_count": 44572,
+          "quote_count": 1243,
+          "reply_count": 278,
+          "retweet_count": 9340
+        },
+        "reply_settings": "everyone",
+        "text": "내가 담배 피워야 할지, 자위해야 할지, 아니면 자살해야 할지 고민하는 중"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2091937718674796826",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 232,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-12T22:30:38.000Z",
+        "description": "야이개새끼야니가뭔데우리엄마를어떻게아는거야",
+        "id": "2010841800928641025",
+        "is_identity_verified": false,
+        "location": "언제든다시돌아와도돼",
+        "most_recent_tweet_id": "2091877803499421903",
+        "name": "니맘잘안다",
+        "pinned_tweet_id": "2016659385255399549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010841800928641025/1768837089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013128938256519169/syz2SdVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 1149,
+          "like_count": 8421,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 3727
+        },
+        "url": "",
+        "username": "stressgender",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
