@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2098409490903339030",
+    "created_at": "2026-09-11T13:53:03.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098409490903339030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901685825076973568",
+          "start": 3,
+          "username": "rczong666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098409490903339030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097366218210779493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2098409490903339030",
+        "created_at": "2026-09-11T13:53:03.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098409490903339030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901685825076973568",
+              "start": 3,
+              "username": "rczong666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098409490903339030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097366218210779493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rczong666: oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901685825076973568",
+        "conversation_id": "2097366218210779493",
+        "created_at": "2026-09-08T16:47:28.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097366218210779493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097366218210779493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9097,
+          "like_count": 263,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "oder一生哭三次\n\n20240507 单方右美划入精二\n20260420 复方右美网络禁售\n20260901 复方右美列入处方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2098409490903339030",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 232,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T17:24:39.000Z",
+        "description": "药物图文官网：https://t.co/WZqhpNIgCx\n本网站持续更新药物信息，药物报告等，欢迎投稿\n自介：大二本科在读｜人工智能专业｜非mtf｜双相，爱好是od（尤其ym），玩mc及各种剧情向游戏，不擅长fps，让我在药效中沉沦吧，\n总有一天我会成为药圈大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 30,
+                "expanded_url": "http://drugraph.com",
+                "start": 7,
+                "url": "https://t.co/WZqhpNIgCx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drugraph.com",
+                "end": 23,
+                "expanded_url": "http://drugraph.com",
+                "start": 0,
+                "url": "https://t.co/WZqhpNHIMZ"
+              }
+            ]
+          }
+        },
+        "id": "1901685825076973568",
+        "is_identity_verified": false,
+        "location": "逐渐清醒",
+        "most_recent_tweet_id": "2098387389874049386",
+        "name": "Fσrgεt-Mε-Nσt",
+        "pinned_tweet_id": "2037219160271589538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901685825076973568/1789024736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 356,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/WZqhpNHIMZ",
+        "username": "rczong666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

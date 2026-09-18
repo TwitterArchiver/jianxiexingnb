@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094443941831835648"
+      ],
+      "media_source_tweet_id": [
+        "2094443951294132589"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2094752049368125687",
+    "created_at": "2026-09-01T11:39:41.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094752049368125687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724267127031672832",
+          "start": 3,
+          "username": "aliebwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HjIYehctok",
+          "end": 85,
+          "expanded_url": "https://x.com/aliebwa/status/2094443951294132589/photo/1",
+          "media_key": "3_2094443941831835648",
+          "start": 62,
+          "url": "https://t.co/HjIYehctok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094752049368125687",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094443941831835648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094443951294132589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aliebwa: 愈美30/24颗 可以扩列！喜欢长发男！喜欢mtf！转帖子点赞评论抽十位幸运粉丝赠送三盒右美沙芬 https://t.co/HjIYehctok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2094443941831835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD1qxLbAAAnfr3.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094443941831835648"
+          ],
+          "media_source_tweet_id": [
+            "2094443951294132589"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2094752049368125687",
+        "created_at": "2026-09-01T11:39:41.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094752049368125687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724267127031672832",
+              "start": 3,
+              "username": "aliebwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjIYehctok",
+              "end": 85,
+              "expanded_url": "https://x.com/aliebwa/status/2094443951294132589/photo/1",
+              "media_key": "3_2094443941831835648",
+              "start": 62,
+              "url": "https://t.co/HjIYehctok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094752049368125687",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094443941831835648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094443951294132589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aliebwa: 愈美30/24颗 可以扩列！喜欢长发男！喜欢mtf！转帖子点赞评论抽十位幸运粉丝赠送三盒右美沙芬 https://t.co/HjIYehctok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094443941831835648"
+          ]
+        },
+        "author_id": "1724267127031672832",
+        "conversation_id": "2094443951294132589",
+        "created_at": "2026-08-31T15:15:25.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094443951294132589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjIYehctok",
+              "end": 72,
+              "expanded_url": "https://x.com/aliebwa/status/2094443951294132589/photo/1",
+              "media_key": "3_2094443941831835648",
+              "start": 49,
+              "url": "https://t.co/HjIYehctok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094443951294132589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094443941831835648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3095,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "愈美30/24颗 可以扩列！喜欢长发男！喜欢mtf！转帖子点赞评论抽十位幸运粉丝赠送三盒右美沙芬 https://t.co/HjIYehctok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2094752049368125687",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 233,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-14T03:25:00.000Z",
+        "description": "🚪66 努力活着努力活下去/喜欢长发男/讨论哲学/od",
+        "id": "1724267127031672832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094668157806104576",
+        "name": "idi/愈美30米24t",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724267127031672832/1699933762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005893629219627008/uLj6ERYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1190,
+          "like_count": 1211,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "aliebwa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

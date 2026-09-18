@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097949080928604160"
+      ],
+      "media_source_tweet_id": [
+        "2097949108631650693"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098781342146383936",
+    "created_at": "2026-09-12T14:30:40.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098781342146383936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016175327069011971",
+          "start": 3,
+          "username": "shanhu_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fHHra9TgMX",
+          "end": 46,
+          "expanded_url": "https://x.com/shanhu_mi/status/2097949108631650693/video/1",
+          "media_key": "13_2097949080928604160",
+          "start": 23,
+          "url": "https://t.co/fHHra9TgMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098781342146383936",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097949080928604160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097949108631650693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanhu_mi: 这个模板好好玩 https://t.co/fHHra9TgMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8127,
+        "height": 720,
+        "media_key": "13_2097949080928604160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097949080928604160/img/9x_ZWMzznjOMHopR.jpg",
+        "public_metrics": {
+          "view_count": 15873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097949080928604160/vid/avc1/320x320/nD_mgNIofW-v4gyZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097949080928604160/vid/avc1/540x540/hQRIJSsQTU-Acwtb.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097949080928604160/vid/avc1/720x720/S2pZpvwhYmWCisVR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097949080928604160/pl/krXwQ6c2Wq5Yhb7-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097949080928604160"
+          ],
+          "media_source_tweet_id": [
+            "2097949108631650693"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098781342146383936",
+        "created_at": "2026-09-12T14:30:40.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098781342146383936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016175327069011971",
+              "start": 3,
+              "username": "shanhu_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHHra9TgMX",
+              "end": 46,
+              "expanded_url": "https://x.com/shanhu_mi/status/2097949108631650693/video/1",
+              "media_key": "13_2097949080928604160",
+              "start": 23,
+              "url": "https://t.co/fHHra9TgMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098781342146383936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097949080928604160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097949108631650693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanhu_mi: 这个模板好好玩 https://t.co/fHHra9TgMX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097949080928604160"
+          ]
+        },
+        "author_id": "2016175327069011971",
+        "conversation_id": "2097949108631650693",
+        "created_at": "2026-09-10T07:23:40.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097949108631650693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHHra9TgMX",
+              "end": 31,
+              "expanded_url": "https://x.com/shanhu_mi/status/2097949108631650693/video/1",
+              "media_key": "13_2097949080928604160",
+              "start": 8,
+              "url": "https://t.co/fHHra9TgMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097949108631650693",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097949080928604160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 27112,
+          "like_count": 2583,
+          "quote_count": 11,
+          "reply_count": 33,
+          "retweet_count": 582
+        },
+        "reply_settings": "everyone",
+        "text": "这个模板好好玩 https://t.co/fHHra9TgMX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2098781342146383936",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 233,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\n哦滴。zc。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪52好友位和圈圈\n🚪88 被动聊天\n备用小号@BanLi_mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "BanLi_mi"
+              }
+            ]
+          }
+        },
+        "id": "2016175327069011971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098778426941620379",
+        "name": "T^",
+        "pinned_tweet_id": "2088638181327712668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016175327069011971/1788343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 186,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "shanhu_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2099009003376525524",
+    "created_at": "2026-09-13T11:13:48.000Z",
+    "display_text_range": [
+      9,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099094188537397650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596474007775158272",
+          "start": 0,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099094188537397650",
+    "in_reply_to_user_id": "1596474007775158272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099009003376525524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shu10oo 这是真的 o美金刚感觉社交能力大幅提升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2099009003376525524",
+        "created_at": "2026-09-13T11:13:48.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099094188537397650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596474007775158272",
+              "start": 0,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099094188537397650",
+        "in_reply_to_user_id": "1596474007775158272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099009003376525524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shu10oo 这是真的 o美金刚感觉社交能力大幅提升"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596474007775158272",
+        "conversation_id": "2099009003376525524",
+        "created_at": "2026-09-13T05:35:18.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099009003376525524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099009003376525524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚完全抗焦虑 我怎么不早吃 社交能力加强好多 也感觉不到尴尬 除了一直在解离还有第二天了我药效还没过基本没什么能让我吐槽的点。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2099094188537397650",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 235,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo 社交障碍很严重抱歉\n闺蜜@Syrcsdj3m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Syrcsdj3m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shu10oo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shu10oo",
+                "start": 0,
+                "url": "https://t.co/veBlyWx5cz"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099042645951848479",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2081784065741758596",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596474007775158272/1785171657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097136857138024448/pvqXazG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 108,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/veBlyWx5cz",
+        "username": "Shu10oo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

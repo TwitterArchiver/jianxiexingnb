@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2099018855305839055",
+    "created_at": "2026-09-13T06:14:27.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099018855305839055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780055196460048385",
+          "start": 3,
+          "username": "lll_Libujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099018855305839055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098830959886180483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lll_Libujin: 有种在闹麻程度里选了大麻的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2099018855305839055",
+        "created_at": "2026-09-13T06:14:27.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099018855305839055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780055196460048385",
+              "start": 3,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099018855305839055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098830959886180483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lll_Libujin: 有种在闹麻程度里选了大麻的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2098830959886180483",
+        "created_at": "2026-09-12T17:47:49.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098830959886180483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098830959886180483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有种在闹麻程度里选了大麻的感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2099018855305839055",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 235,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2098857043314852343",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 351,
+          "like_count": 7529,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

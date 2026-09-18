@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2094483274223775779",
+    "created_at": "2026-08-31T17:51:40.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094483274223775779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071754623484862464",
+          "start": 3,
+          "username": "h9qz6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094483274223775779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094295768278434235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h9qz6y: 有没有人懂打开x评论区全是比她好看没她骚比她骚没她好看的救赎感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2094483274223775779",
+        "created_at": "2026-08-31T17:51:40.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094483274223775779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071754623484862464",
+              "start": 3,
+              "username": "h9qz6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094483274223775779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094295768278434235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h9qz6y: 有没有人懂打开x评论区全是比她好看没她骚比她骚没她好看的救赎感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071754623484862464",
+        "conversation_id": "2094295768278434235",
+        "created_at": "2026-08-31T05:26:35.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094295768278434235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094295768278434235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 290118,
+          "like_count": 2968,
+          "quote_count": 3,
+          "reply_count": 446,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人懂打开x评论区全是比她好看没她骚比她骚没她好看的救赎感"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2094483274223775779",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 232,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T00:41:51.000Z",
+        "description": "收起心，大罵一句傻逼，提醒一句別暈船😁",
+        "id": "2071754623484862464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094431591065919607",
+        "name": "諾謎",
+        "pinned_tweet_id": "2091536680150859859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071754623484862464/1786972062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089338906734936064/cyXZlBrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 237,
+          "like_count": 5999,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "h9qz6y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

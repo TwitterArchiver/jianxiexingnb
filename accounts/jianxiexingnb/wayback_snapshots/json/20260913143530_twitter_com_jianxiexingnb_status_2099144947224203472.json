@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2099089709599465783",
+    "created_at": "2026-09-13T14:35:30.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099144947224203472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552238688590958592",
+          "start": 0,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099144947224203472",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099142467731984529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer 真相了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2099089709599465783",
+        "created_at": "2026-09-13T14:35:30.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099144947224203472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099144947224203472",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099142467731984529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 真相了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2099089709599465783",
+        "created_at": "2026-09-13T14:25:39.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099142467731984529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099142467731984529",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099089709599465783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb 拍照的偷偷吃了三颗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2099144947224203472",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 237,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容/一个月没更新就是死了\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2099142467731984529",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 2745,
+          "like_count": 10176,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 3785
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

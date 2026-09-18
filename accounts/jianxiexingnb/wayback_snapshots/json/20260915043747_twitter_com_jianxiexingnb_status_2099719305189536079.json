@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2099719305189536079",
+    "created_at": "2026-09-15T04:37:47.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099719305189536079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762476568923049984",
+          "start": 3,
+          "username": "maoclimber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099719305189536079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2343
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099393399069798883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @maoclimber: 正直セックスよりセックスした次の日に相手が何も無かったかのようにいつも通りに過ごしてる事実の方がエロいよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2099719305189536079",
+        "created_at": "2026-09-15T04:37:47.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099719305189536079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762476568923049984",
+              "start": 3,
+              "username": "maoclimber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099719305189536079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099393399069798883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @maoclimber: 正直セックスよりセックスした次の日に相手が何も無かったかのようにいつも通りに過ごしてる事実の方がエロいよね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762476568923049984",
+        "conversation_id": "2099393399069798883",
+        "created_at": "2026-09-14T07:02:45.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099393399069798883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099393399069798883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3169,
+          "impression_count": 2673583,
+          "like_count": 60027,
+          "quote_count": 582,
+          "reply_count": 10,
+          "retweet_count": 2341
+        },
+        "reply_settings": "following",
+        "text": "正直セックスよりセックスした次の日に相手が何も無かったかのようにいつも通りに過ごしてる事実の方がエロいよね"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2099719305189536079",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 240,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-27T13:55:42.000Z",
+        "description": "配信始めた https://t.co/QuUwDsm4c4\n鍵 @xok0_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "xok0_o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCuFsY…",
+                "end": 29,
+                "expanded_url": "https://youtube.com/channel/UCuFsYe2oMtYnoLbxe4jslXA?si=768SDQIvIwOlpt6K",
+                "start": 6,
+                "url": "https://t.co/QuUwDsm4c4"
+              }
+            ]
+          }
+        },
+        "id": "1762476568923049984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099690536995303788",
+        "name": "まおー",
+        "pinned_tweet_id": "2059630018964365400",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1762476568923049984/1785268273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604567715422208/QOEmfHGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 383,
+          "like_count": 17172,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2994
+        },
+        "url": "",
+        "username": "maoclimber",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
