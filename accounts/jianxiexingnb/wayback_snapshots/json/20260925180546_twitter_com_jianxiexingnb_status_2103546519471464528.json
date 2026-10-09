@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2103546519471464528",
+    "created_at": "2026-09-25T18:05:46.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103546519471464528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2087523845901049856",
+          "start": 3,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103546519471464528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103146673291837892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suan4hjwnms: 嗑药磕药，我们爱嗑药，嗑药充满了魔力，充满了魅力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2103546519471464528",
+        "created_at": "2026-09-25T18:05:46.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103546519471464528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2087523845901049856",
+              "start": 3,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103546519471464528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103146673291837892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suan4hjwnms: 嗑药磕药，我们爱嗑药，嗑药充满了魔力，充满了魅力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087523845901049856",
+        "conversation_id": "2103146673291837892",
+        "created_at": "2026-09-24T15:36:56.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103146673291837892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103146673291837892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6295,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药磕药，我们爱嗑药，嗑药充满了魔力，充满了魅力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2103546519471464528",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 247,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pien/🩸\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103455545726489058",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 555,
+          "like_count": 1189,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

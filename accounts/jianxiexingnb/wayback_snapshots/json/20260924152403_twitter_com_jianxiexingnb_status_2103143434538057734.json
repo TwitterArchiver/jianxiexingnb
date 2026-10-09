@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2103143434538057734",
+    "created_at": "2026-09-24T15:24:03.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103143434538057734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "4888777ovo02756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103143434538057734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102682711068725544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4888777ovo02756: 能不能出一个中国人每周都能双休把美国人气坏了的故事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2103143434538057734",
+        "created_at": "2026-09-24T15:24:03.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103143434538057734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103143434538057734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102682711068725544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4888777ovo02756: 能不能出一个中国人每周都能双休把美国人气坏了的故事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2102682711068725544",
+        "created_at": "2026-09-23T08:53:18.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102682711068725544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102682711068725544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 113916,
+          "like_count": 3641,
+          "quote_count": 7,
+          "reply_count": 90,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "能不能出一个中国人每周都能双休把美国人气坏了的故事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2103143434538057734",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 248,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "不感性，不理解，不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "is_identity_verified": false,
+        "location": "提问箱",
+        "most_recent_tweet_id": "2103142095351676949",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829229897195368455/1781789855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101690834324475904/yNvQBkVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4953,
+          "following_count": 59,
+          "like_count": 2702,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 6231
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

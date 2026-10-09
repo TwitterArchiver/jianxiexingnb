@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105593263809859584",
+        "3_2105593263574962176"
+      ],
+      "media_source_tweet_id": [
+        "2105593301361475680",
+        "2105593301361475680"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106285729601208749",
+    "created_at": "2026-10-03T07:30:25.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106285729601208749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2105586456458657793",
+          "start": 3,
+          "username": "xccpmh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mkhTKwoY5T",
+          "end": 86,
+          "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+          "media_key": "3_2105593263809859584",
+          "start": 63,
+          "url": "https://t.co/mkhTKwoY5T"
+        },
+        {
+          "display_url": "pic.x.com/mkhTKwoY5T",
+          "end": 86,
+          "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+          "media_key": "3_2105593263574962176",
+          "start": 63,
+          "url": "https://t.co/mkhTKwoY5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106285729601208749",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105593263809859584"
+      },
+      {
+        "media_key": "3_2105593263574962176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105593301361475680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xccpmh: 前世因药物交流被msk无情封禁，寻回互fo\n\n法学在读，无偿提供各种药物和法律咨询，欢迎互fo交友🥰 https://t.co/mkhTKwoY5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105593263809859584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiR6uLXkAA3BfR.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105593263574962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiR6tTXUAA0MVV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105593263809859584",
+            "3_2105593263574962176"
+          ],
+          "media_source_tweet_id": [
+            "2105593301361475680",
+            "2105593301361475680"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106285729601208749",
+        "created_at": "2026-10-03T07:30:25.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106285729601208749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2105586456458657793",
+              "start": 3,
+              "username": "xccpmh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkhTKwoY5T",
+              "end": 86,
+              "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+              "media_key": "3_2105593263809859584",
+              "start": 63,
+              "url": "https://t.co/mkhTKwoY5T"
+            },
+            {
+              "display_url": "pic.x.com/mkhTKwoY5T",
+              "end": 86,
+              "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+              "media_key": "3_2105593263574962176",
+              "start": 63,
+              "url": "https://t.co/mkhTKwoY5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106285729601208749",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105593263809859584"
+          },
+          {
+            "media_key": "3_2105593263574962176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105593301361475680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xccpmh: 前世因药物交流被msk无情封禁，寻回互fo\n\n法学在读，无偿提供各种药物和法律咨询，欢迎互fo交友🥰 https://t.co/mkhTKwoY5T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105593263809859584",
+            "3_2105593263574962176"
+          ]
+        },
+        "author_id": "2105586456458657793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105593301361475680",
+        "created_at": "2026-10-01T09:38:57.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105593301361475680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkhTKwoY5T",
+              "end": 74,
+              "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+              "media_key": "3_2105593263809859584",
+              "start": 51,
+              "url": "https://t.co/mkhTKwoY5T"
+            },
+            {
+              "display_url": "pic.x.com/mkhTKwoY5T",
+              "end": 74,
+              "expanded_url": "https://x.com/xccpmh/status/2105593301361475680/photo/1",
+              "media_key": "3_2105593263574962176",
+              "start": 51,
+              "url": "https://t.co/mkhTKwoY5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105593301361475680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105593263809859584"
+          },
+          {
+            "media_key": "3_2105593263574962176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4935,
+          "like_count": 98,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "前世因药物交流被msk无情封禁，寻回互fo\n\n法学在读，无偿提供各种药物和法律咨询，欢迎互fo交友🥰 https://t.co/mkhTKwoY5T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2106285729601208749",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105269369005879297/BnQg7Wya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 255,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-01T09:14:18.000Z",
+        "description": "这都是要应验的，不要干这种事情（第5个号寻回互fo\nhrt202609",
+        "id": "2105586456458657793",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106268997587206247",
+        "name": "担麦人4.0🍥",
+        "pinned_tweet_id": "2105593301361475680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105586456458657793/1790846536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105589046722342912/SFFC3l-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 119,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "xccpmh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

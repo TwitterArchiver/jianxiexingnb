@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104446313022816256"
+      ],
+      "media_source_tweet_id": [
+        "2104446319691723249"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104556908111626272",
+    "created_at": "2026-09-28T13:00:42.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104556908111626272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "CldGeo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iFcIBDnTDm",
+          "end": 50,
+          "expanded_url": "https://x.com/CldGeo/status/2104446319691723249/photo/1",
+          "media_key": "3_2104446313022816256",
+          "start": 27,
+          "url": "https://t.co/iFcIBDnTDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104556908111626272",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104446313022816256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104446319691723249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CldGeo: 提醒你们一下今晚爆发生化危机 https://t.co/iFcIBDnTDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2104446313022816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR-xZibAAAvr7W.jpg",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104446313022816256"
+          ],
+          "media_source_tweet_id": [
+            "2104446319691723249"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104556908111626272",
+        "created_at": "2026-09-28T13:00:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104556908111626272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFcIBDnTDm",
+              "end": 50,
+              "expanded_url": "https://x.com/CldGeo/status/2104446319691723249/photo/1",
+              "media_key": "3_2104446313022816256",
+              "start": 27,
+              "url": "https://t.co/iFcIBDnTDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104556908111626272",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104446313022816256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104446319691723249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CldGeo: 提醒你们一下今晚爆发生化危机 https://t.co/iFcIBDnTDm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104446313022816256"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104446319691723249",
+        "created_at": "2026-09-28T05:41:15.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104446319691723249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFcIBDnTDm",
+              "end": 38,
+              "expanded_url": "https://x.com/CldGeo/status/2104446319691723249/photo/1",
+              "media_key": "3_2104446313022816256",
+              "start": 15,
+              "url": "https://t.co/iFcIBDnTDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104446319691723249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104446313022816256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 88278,
+          "like_count": 1483,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "提醒你们一下今晚爆发生化危机 https://t.co/iFcIBDnTDm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2104556908111626272",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 251,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "is_identity_verified": true,
+        "location": "「絶え間ない光」が降り注ぐ",
+        "most_recent_tweet_id": "2104446319691723249",
+        "name": "九鸟",
+        "pinned_tweet_id": "2091435684854980941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286241253621817344/1772419883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 376,
+          "like_count": 5825,
+          "listed_count": 8,
+          "media_count": 597,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2032985503621095424",
+    "conversation_id": "2106856422927708543",
+    "created_at": "2026-10-04T21:18:09.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T22:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106856422927708543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048819711815700480",
+          "start": 3,
+          "username": "GoodbunnYY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106856422927708543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106317680676634705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoodbunnYY6: 不要对做爱羞耻，你要想地球上有八十亿人口，就说明操过八十亿万次福还不止，人类与您同在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2106856422927708543",
+        "created_at": "2026-10-04T21:18:09.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T22:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106856422927708543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048819711815700480",
+              "start": 3,
+              "username": "GoodbunnYY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106856422927708543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106317680676634705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoodbunnYY6: 不要对做爱羞耻，你要想地球上有八十亿人口，就说明操过八十亿万次福还不止，人类与您同在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048819711815700480",
+        "conversation_id": "2106317680676634705",
+        "created_at": "2026-10-03T09:37:23.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106317680676634705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106317680676634705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 125162,
+          "like_count": 2904,
+          "quote_count": 2,
+          "reply_count": 191,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "不要对做爱羞耻，你要想地球上有八十亿人口，就说明操过八十亿万次福还不止，人类与您同在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2106856422927708543",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105269369005879297/BnQg7Wya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 254,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T17:41:25.000Z",
+        "description": "162/88\n可以夸我 我只找妹妹和有意思的人聊天",
+        "id": "2048819711815700480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106829329623863366",
+        "name": "锋利温柔",
+        "pinned_tweet_id": "2105615944504750346",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048819711815700480/1790982435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105615023267627009/RxRdiBWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 5,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "GoodbunnYY6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

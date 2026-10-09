@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105635413910237184"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2105635427290071274",
+    "created_at": "2026-10-01T12:26:21.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105635427290071274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HM0NQffYWn",
+          "end": 35,
+          "expanded_url": "https://x.com/jianxiexingnb/status/2105635427290071274/photo/1",
+          "media_key": "3_2105635413910237184",
+          "start": 12,
+          "url": "https://t.co/HM0NQffYWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105635427290071274",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105635413910237184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国庆耍12tmjg玩🥵 https://t.co/HM0NQffYWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2468,
+        "media_key": "3_2105635413910237184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi4QLiaMAA5aj8.jpg",
+        "width": 3128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105635413910237184"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2105635427290071274",
+        "created_at": "2026-10-01T12:26:21.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105635427290071274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM0NQffYWn",
+              "end": 35,
+              "expanded_url": "https://x.com/jianxiexingnb/status/2105635427290071274/photo/1",
+              "media_key": "3_2105635413910237184",
+              "start": 12,
+              "url": "https://t.co/HM0NQffYWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105635427290071274",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105635413910237184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国庆耍12tmjg玩🥵 https://t.co/HM0NQffYWn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2105635427290071274",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105269369005879297/BnQg7Wya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 254,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

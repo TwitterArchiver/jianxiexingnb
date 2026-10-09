@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103327147511418880"
+      ],
+      "media_source_tweet_id": [
+        "2103327153404453257"
+      ]
+    },
+    "author_id": "2032985503621095424",
+    "conversation_id": "2103690427752960317",
+    "created_at": "2026-09-26T03:37:37.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103690427752960317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061825941224194048",
+          "start": 3,
+          "username": "Lalalalaluk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtLJur7sJB",
+          "end": 57,
+          "expanded_url": "https://x.com/Lalalalaluk/status/2103327153404453257/photo/1",
+          "media_key": "3_2103327147511418880",
+          "start": 34,
+          "url": "https://t.co/RtLJur7sJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103690427752960317",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103327147511418880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103327153404453257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lalalalaluk: 检测到您刷太久推特，已被警方逮捕 https://t.co/RtLJur7sJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2103327147511418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCE5ZHakAAX4_x.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103327147511418880"
+          ],
+          "media_source_tweet_id": [
+            "2103327153404453257"
+          ]
+        },
+        "author_id": "2032985503621095424",
+        "conversation_id": "2103690427752960317",
+        "created_at": "2026-09-26T03:37:37.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103690427752960317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061825941224194048",
+              "start": 3,
+              "username": "Lalalalaluk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtLJur7sJB",
+              "end": 57,
+              "expanded_url": "https://x.com/Lalalalaluk/status/2103327153404453257/photo/1",
+              "media_key": "3_2103327147511418880",
+              "start": 34,
+              "url": "https://t.co/RtLJur7sJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103690427752960317",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103327147511418880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103327153404453257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lalalalaluk: 检测到您刷太久推特，已被警方逮捕 https://t.co/RtLJur7sJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103327147511418880"
+          ]
+        },
+        "author_id": "2061825941224194048",
+        "conversation_id": "2103327153404453257",
+        "created_at": "2026-09-25T03:34:05.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103327153404453257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtLJur7sJB",
+              "end": 40,
+              "expanded_url": "https://x.com/Lalalalaluk/status/2103327153404453257/photo/1",
+              "media_key": "3_2103327147511418880",
+              "start": 17,
+              "url": "https://t.co/RtLJur7sJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103327153404453257",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103327147511418880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 280371,
+          "like_count": 5611,
+          "quote_count": 4,
+          "reply_count": 406,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "检测到您刷太久推特，已被警方逮捕 https://t.co/RtLJur7sJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/直fo就🉑 看到了就会回  没有回的请私信/问我匿名问答↓可以获得我的亲手手写回答加海豹画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianxiexing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianxiexing",
+                "start": 0,
+                "url": "https://t.co/XT84nGbra0"
+              }
+            ]
+          }
+        },
+        "id": "2032985503621095424",
+        "is_identity_verified": false,
+        "location": "超脱于宇宙之外",
+        "most_recent_tweet_id": "2103690427752960317",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2056767635887681663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032985503621095424/1776434207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 247,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/XT84nGbra0",
+        "username": "jianxiexingnb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T15:03:28.000Z",
+        "description": "小猫的名字叫小狗\n喜欢一切毛茸茸的小动物",
+        "id": "2061825941224194048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103689824108744775",
+        "name": "Lalalalalu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099863969641230336/Zn1CHaMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 111,
+          "like_count": 1700,
+          "listed_count": 2,
+          "media_count": 566,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "Lalalalaluk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
